@@ -1148,7 +1148,7 @@ The One with George Stephanopoulos,dialogue,JOEY,Man. Can you believe he's only 
 The One with George Stephanopoulos,dialogue,CHANDLER,"I think it's great. Y'know, it's sweet, it's romantic...","I think it's great. Y'know, it's sweet, it's romantic...",,,,,1,4
 The One with George Stephanopoulos,dialogue,JOEY,Really?,Really?,,,,,1,4
 The One with George Stephanopoulos,dialogue,CHANDLER,"No, you kidding? The guy's a freak.. (Ross enters off camera)","No, you kidding? The guy's a freak..",(Ross enters off camera),,,,1,4
-The One with George Stephanopoulos,dialogue,BOTH,"Hey, buddy.","Hey, buddy.",,,,,1,4
+The One with George Stephanopoulos,dialogue,"JOEY, CHANDLER","Hey, buddy.","Hey, buddy.",,,,,1,4
 The One with George Stephanopoulos,dialogue,ROSS,Hi. (He is wearing a piece of steel bandaged to his nose.  He tosses some forms onto reception desk.),Hi.,(He is wearing a piece of steel bandaged to his nose.  He tosses some forms onto reception desk.),,,,1,4
 The One with George Stephanopoulos,dialogue,RECEPTIONIST,"(sarcastic) Oh, that's attractive.","Oh, that's attractive.",(sarcastic),,,,1,4
 The One with George Stephanopoulos,dialogue,CHANDLER,"Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight.","Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight.",,,,,1,4
@@ -5397,7 +5397,7 @@ The One Where the Monkey Gets Away,scene_note,,,,,,,Cut to Monica and Phoebe sea
 The One Where the Monkey Gets Away,dialogue,PHOEBE,Marcel?,Marcel?,,,,,1,19
 The One Where the Monkey Gets Away,dialogue,MONICA,Marcel?,Marcel?,,,,,1,19
 The One Where the Monkey Gets Away,dialogue,PHOEBE,Marcel?,Marcel?,,,,,1,19
-The One Where the Monkey Gets Away,dialogue,BOTH,Marcel?,Marcel?,,,,,1,19
+The One Where the Monkey Gets Away,dialogue,"MONICA, PHOEBE",Marcel?,Marcel?,,,,,1,19
 The One Where the Monkey Gets Away,dialogue,PHOEBE,Oh-my-God!,Oh-my-God!,,,,,1,19
 The One Where the Monkey Gets Away,dialogue,MONICA,Whaaat!,Whaaat!,,,,,1,19
 The One Where the Monkey Gets Away,dialogue,PHOEBE,Something just brushed up against my right leg!,Something just brushed up against my right leg!,,,,,1,19
@@ -5431,7 +5431,7 @@ The One Where the Monkey Gets Away,dialogue,ROSS,"Oh, forget it, okay?","Oh, for
 The One Where the Monkey Gets Away,dialogue,RACHEL,Ross!,Ross!,,,,,1,19
 The One Where the Monkey Gets Away,dialogue,ROSS,What? What?,What? What?,,,,,1,19
 The One Where the Monkey Gets Away,stage_direction,,,,,,A man carrying a box of bananas walks past them. They stare for a minute and then hobble after him,,1,19
-The One Where the Monkey Gets Away,dialogue,BOTH,"Hey! Hey, Bananaman!","Hey! Hey, Bananaman!",,,,,1,19
+The One Where the Monkey Gets Away,dialogue,"ROSS, RACHEL","Hey! Hey, Bananaman!","Hey! Hey, Bananaman!",,,,,1,19
 The One Where the Monkey Gets Away,stage_direction,,,,,,Scene 4: Everyone in the hall outside Mr. Heckles' door. Ross is carrying the box of bananas. He bangs on the door,,1,19
 The One Where the Monkey Gets Away,dialogue,PHOEBE,"Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea.","Oh, this is so intense. One side of my butt is totally asleep, and the other side has no idea.",,,,,1,19
 The One Where the Monkey Gets Away,stage_direction,,,,,,Mr. Heckles opens the door,,1,19
@@ -8270,7 +8270,7 @@ The One with the Baby on the Bus,dialogue,CHANDLER,"Oh, sure, they love us over 
 The One with the Baby on the Bus,dialogue,GIRL 2,Where's your baby?,Where's your baby?,,,,,2,6
 The One with the Baby on the Bus,dialogue,"CHANDLER, JOEY",(running after bus) Ben! Ben! Ben!,Ben! Ben! Ben!,(running after bus),,,,2,6
 The One with the Baby on the Bus,dialogue,CHANDLER,"Oh, that's good. Maybe he'll hear you and pull the cord.","Oh, that's good. Maybe he'll hear you and pull the cord.",,,,,2,6
-The One with the Baby on the Bus,dialogue,BOTH,Stop the bus! Wait! Wait! Wait!,Stop the bus! Wait! Wait! Wait!,,,,,2,6
+The One with the Baby on the Bus,dialogue,"CHANDLER, JOEY",Stop the bus! Wait! Wait! Wait!,Stop the bus! Wait! Wait! Wait!,,,,,2,6
 The One with the Baby on the Bus,dialogue,MONICA,Are you sure he didn't break it because it really hurts.,Are you sure he didn't break it because it really hurts.,,,,,2,6
 The One with the Baby on the Bus,dialogue,DOCTOR,"No, it's just a good bone bruise. And, right here is the puncture wound from your ring.","No, it's just a good bone bruise. And, right here is the puncture wound from your ring.",,,,,2,6
 The One with the Baby on the Bus,dialogue,ROSS,"Oh, I'm sorry, I'm really sorry. Sorry. Sorry! Hey! Hey! I got my s's back! Which we can celebrate later. Celebrate.","Oh, I'm sorry, I'm really sorry. Sorry. Sorry! Hey! Hey! I got my s's back! Which we can celebrate later. Celebrate.",,,,,2,6
@@ -8299,7 +8299,7 @@ The One with the Baby on the Bus,dialogue,TRANSIT AUTHORITY GUY,He's here. (Chan
 The One with the Baby on the Bus,dialogue,CHANDLER,That's me.,That's me.,,,,,2,6
 The One with the Baby on the Bus,dialogue,JOEY,I'm him.,I'm him.,,,,,2,6
 The One with the Baby on the Bus,dialogue,CHANDLER,"Actually, uh, we're both the father. (Puts his arm around Joey)","Actually, uh, we're both the father.",(Puts his arm around Joey),,,,2,6
-The One with the Baby on the Bus,dialogue,BOTH,"Oh, Ben! Hey, buddy!","Oh, Ben! Hey, buddy!",,,,,2,6
+The One with the Baby on the Bus,dialogue,"CHANDLER, JOEY","Oh, Ben! Hey, buddy!","Oh, Ben! Hey, buddy!",,,,,2,6
 The One with the Baby on the Bus,dialogue,CHANDLER,Please tell me you know which one is our baby.,Please tell me you know which one is our baby.,,,,,2,6
 The One with the Baby on the Bus,dialogue,JOEY,"Well, well that one has ducks on his t-shirt, and this one has clowns. And Ben was definitely wearing ducks.","Well, well that one has ducks on his t-shirt, and this one has clowns. And Ben was definitely wearing ducks.",,,,,2,6
 The One with the Baby on the Bus,dialogue,CHANDLER,Ok.,Ok.,,,,,2,6
@@ -10524,7 +10524,7 @@ The One with the Prom Video,dialogue,MONICA,Alright.,Alright.,,,,,2,14
 The One with the Prom Video,scene_note,,,,,,,the tape cuts to Monica's parents under the covers,2,14
 The One with the Prom Video,dialogue,MRS. GELLER,"Oh, Jack.","Oh, Jack.",,,,,2,14
 The One with the Prom Video,dialogue,MR. GELLER,"Oh, Judy. Oh, Judy.","Oh, Judy. Oh, Judy.",,,,,2,14
-The One with the Prom Video,dialogue,BOTH,"Oh, ohhhhh.","Oh, ohhhhh.",,,,,2,14
+The One with the Prom Video,dialogue,"MR. GELLER, MRS. GELLER","Oh, ohhhhh.","Oh, ohhhhh.",,,,,2,14
 The One with the Prom Video,scene_note,,,,,,,Monica is visibly upset,2,14
 The One Where Ross and Rachel... You Know,scene_note,,,,,,,Scene: Chandler and Joey's apartment. Joey and Chandler enter with Chandler covering his eyes and Joey leading him.,2,15
 The One Where Ross and Rachel... You Know,dialogue,JOEY,"Alright, no peeking. No peeking, no peeking, no peeking.","Alright, no peeking. No peeking, no peeking, no peeking.",,,,,2,15
@@ -10541,7 +10541,7 @@ The One Where Ross and Rachel... You Know,dialogue,CHANDLER,[sits down] Ohh yes.
 The One Where Ross and Rachel... You Know,dialogue,JOEY,"[sits down] Ohh yeah, that's the stuff.","Ohh yeah, that's the stuff.",,sits down,,,2,15
 The One Where Ross and Rachel... You Know,dialogue,CHANDLER,[reaches for the footrest lever] Do we dare?,Do we dare?,,reaches for the footrest lever,,,2,15
 The One Where Ross and Rachel... You Know,dialogue,JOEY,We dare.,We dare.,,,,,2,15
-The One Where Ross and Rachel... You Know,dialogue,BOTH,[both extend the footrests] Aaahhhh. [both recline their chairs] AAAAHHHHHH.,Aaahhhh.  AAAAHHHHHH.,,both extend the footrests | both recline their chairs,,,2,15
+The One Where Ross and Rachel... You Know,dialogue,"CHANDLER, JOEY",[both extend the footrests] Aaahhhh. [both recline their chairs] AAAAHHHHHH.,Aaahhhh.  AAAAHHHHHH.,,both extend the footrests | both recline their chairs,,,2,15
 The One Where Ross and Rachel... You Know,scene_note,,,,,,,"Scene: Chandler and Joey's apartment. Chandler and Joey are sitting in their recliners watching TV. Monica, Ross, and Phoebe are there.",2,15
 The One Where Ross and Rachel... You Know,dialogue,PHOEBE,I can't believe two cows made the ultimate sacrifice so you guys could watch TV with your feet up.,I can't believe two cows made the ultimate sacrifice so you guys could watch TV with your feet up.,,,,,2,15
 The One Where Ross and Rachel... You Know,dialogue,CHANDLER,Well they were chair-shaped cows. They never would have survived in the wild.,Well they were chair-shaped cows. They never would have survived in the wild.,,,,,2,15
@@ -11178,7 +11178,7 @@ The One Where Eddie Moves In,dialogue,JOEY,"Oh, well great.","Oh, well great.",,
 The One Where Eddie Moves In,dialogue,CHANDLER,Yeah I just... wanted to call and say hey.,Yeah I just... wanted to call and say hey.,,,,,2,17
 The One Where Eddie Moves In,dialogue,JOEY,Well OK then. [oven timer goes off behind Chandler] Was that the oven timer?,Well OK then.  Was that the oven timer?,,oven timer goes off behind Chandler,,,2,17
 The One Where Eddie Moves In,dialogue,CHANDLER,That's right my friend. It's time for...,That's right my friend. It's time for...,,,,,2,17
-The One Where Eddie Moves In,dialogue,BOTH,Baywatch!! [both turn on TV's],Baywatch!!,,both turn on TV's,,,2,17
+The One Where Eddie Moves In,dialogue,"CHANDLER, JOEY",Baywatch!! [both turn on TV's],Baywatch!!,,both turn on TV's,,,2,17
 The One Where Eddie Moves In,dialogue,JOEY,"Oh, can you believe they gave Stephanie skin cancer?","Oh, can you believe they gave Stephanie skin cancer?",,,,,2,17
 The One Where Eddie Moves In,dialogue,CHANDLER,I still can't believe they promoted her to lieutenant.,I still can't believe they promoted her to lieutenant.,,,,,2,17
 The One Where Eddie Moves In,dialogue,JOEY,"Naa, you're just sayin' that 'cause you're in love with Yasmine Blepe.","Naa, you're just sayin' that 'cause you're in love with Yasmine Blepe.",,,,,2,17
@@ -22120,7 +22120,7 @@ The One with the Dirty Girl,dialogue,MONICA,"Wait a minute, Phoebe! We should be
 The One with the Dirty Girl,dialogue,PHOEBE,Okay!,Okay!,,,,,4,6
 The One with the Dirty Girl,dialogue,MONICA,I can cook and you can take care of the money.,I can cook and you can take care of the money.,,,,,4,6
 The One with the Dirty Girl,dialogue,PHOEBE,Yeah. Oh! It'll be like I have a wife in the fifties!,Yeah. Oh! It'll be like I have a wife in the fifties!,,,,,4,6
-The One with the Dirty Girl,dialogue,BOTH,(screaming with excitement) Aah!,Aah!,(screaming with excitement),,,,4,6
+The One with the Dirty Girl,dialogue,"MONICA, PHOEBE",(screaming with excitement) Aah!,Aah!,(screaming with excitement),,,,4,6
 The One with the Dirty Girl,scene_note,,,,,,,"Scene: Chandler and Joey's, Chandler is there, Joey enters.",4,6
 The One with the Dirty Girl,dialogue,JOEY,Hey!,Hey!,,,,,4,6
 The One with the Dirty Girl,dialogue,CHANDLER,"Hey, how'd it go? How'd she like the gift?","Hey, how'd it go? How'd she like the gift?",,,,,4,6
@@ -25360,7 +25360,7 @@ The One with the Free Porn,stage_direction,,,,,,Goes over and picks up the remot
 The One with the Free Porn,dialogue,CHANDLER,"All right, ready?","All right, ready?",,,,,4,17
 The One with the Free Porn,dialogue,JOEY,One.,One.,,,,,4,17
 The One with the Free Porn,dialogue,CHANDLER,Two.,Two.,,,,,4,17
-The One with the Free Porn,dialogue,BOTH,Three.,Three.,,,,,4,17
+The One with the Free Porn,dialogue,"CHANDLER, JOEY",Three.,Three.,,,,,4,17
 The One with the Free Porn,stage_direction,,,,,,Chandler turns off the porn and sets the remote down.,,4,17
 The One with the Free Porn,dialogue,JOEY,That’s kinda nice.,That’s kinda nice.,,,,,4,17
 The One with the Free Porn,dialogue,CHANDLER,"Yeah, that’s kinda a relief.","Yeah, that’s kinda a relief.",,,,,4,17
@@ -25714,7 +25714,7 @@ The One with All the Haste,dialogue,RACHEL,Do you guys want these?,Do you guys w
 The One with All the Haste,dialogue,JOEY,Yeah!,Yeah!,,,,,4,19
 The One with All the Haste,dialogue,CHANDLER,Yeah we do!,Yeah we do!,,,,,4,19
 The One with All the Haste,dialogue,RACHEL,"Ohh, well you got ‘em.","Ohh, well you got ‘em.",,,,,4,19
-The One with All the Haste,dialogue,BOTH,All right!,All right!,,,,,4,19
+The One with All the Haste,dialogue,"CHANDLER, JOEY",All right!,All right!,,,,,4,19
 The One with All the Haste,dialogue,RACHEL,Just give us our apartment back!,Just give us our apartment back!,,,,,4,19
 The One with All the Haste,dialogue,PHOEBE,Boy! I didn’t see that coming!,Boy! I didn’t see that coming!,,,,,4,19
 The One with All the Haste,dialogue,CHANDLER,Are you serious?,Are you serious?,,,,,4,19
@@ -25949,11 +25949,11 @@ The One with All the Haste,dialogue,JOEY,Monica and Rachel made out. (Giggles li
 The One with All the Haste,scene_note,,,,,,,"Scene: Joey’s bedroom, he is awoken by the singing guy.",4,19
 The One with All the Haste,dialogue,THE SINGING MAN,(singing) Morning’s here! The morning’s here!,Morning’s here! The morning’s here!,(singing),,,,4,19
 The One with All the Haste,stage_direction,,,,,,Joey joins him.,,4,19
-The One with All the Haste,dialogue,BOTH,"Sunshine is here! The sky is clear, the morning’s here!","Sunshine is here! The sky is clear, the morning’s here!",,,,,4,19
+The One with All the Haste,dialogue,"THE SINGING MAN, JOEY","Sunshine is here! The sky is clear, the morning’s here!","Sunshine is here! The sky is clear, the morning’s here!",,,,,4,19
 The One with All the Haste,dialogue,THE SINGING MAN,Hey! You’re back!,Hey! You’re back!,,,,,4,19
 The One with All the Haste,dialogue,JOEY,Hey! (Singing) Get into gear!,Hey!  Get into gear!,(Singing),,,,4,19
 The One with All the Haste,dialogue,THE SINGING MAN,(singing) Breakfast is near!,Breakfast is near!,(singing),,,,4,19
-The One with All the Haste,dialogue,BOTH,The dark of night has disappeared!!,The dark of night has disappeared!!,,,,,4,19
+The One with All the Haste,dialogue,"THE SINGING MAN, JOEY",The dark of night has disappeared!!,The dark of night has disappeared!!,,,,,4,19
 The One with All the Haste,dialogue,THE SINGING MAN,I’ll see you tomorrow morning!,I’ll see you tomorrow morning!,,,,,4,19
 The One with All the Haste,dialogue,JOEY,(happily) Okay!,Okay!,(happily),,,,4,19
 The One with All the Wedding Dresses,scene_note,,,,,,,"Scene: Joey’s bedroom, he is asleep and snoring loudly. Chandler enters wondering who left their engine running.",4,20
@@ -30555,7 +30555,7 @@ The One with Chandler's Work Laugh,dialogue,MONICA,I think this is so cool becau
 The One with Chandler's Work Laugh,dialogue,CHANDLER,"I know, I can do this. (He takes her hand.)","I know, I can do this.",(He takes her hand.),,,,5,12
 The One with Chandler's Work Laugh,dialogue,MONICA,"Ooh, and I can do this. (She kisses him on the cheek.)","Ooh, and I can do this.",(She kisses him on the cheek.),,,,5,12
 The One with Chandler's Work Laugh,stage_direction,,,,,,They both stand real close together.,,5,12
-The One with Chandler's Work Laugh,dialogue,BOTH,We can't do that. (They separate.),We can't do that.,(They separate.),,,,5,12
+The One with Chandler's Work Laugh,dialogue,"CHANDLER, MONICA",We can't do that. (They separate.),We can't do that.,(They separate.),,,,5,12
 The One with Chandler's Work Laugh,stage_direction,,,,,,Chandler's boss (Doug) walks up.,,5,12
 The One with Chandler's Work Laugh,dialogue,DOUG,"Hey Bing! (Slaps him on his ass.) (Sees Monica) Wo-ho-ho, who's the pretty lady and what the hell is she doing with you?","Hey Bing!   Wo-ho-ho, who's the pretty lady and what the hell is she doing with you?",(Slaps him on his ass.) | (Sees Monica),,,,5,12
 The One with Chandler's Work Laugh,dialogue,CHANDLER,"I asked myself that very question, sir. Uh, (Points to Monica) this is Monica. (Points to his boss.) This is my boss, Doug. Doug this is Monica.","I asked myself that very question, sir. Uh,  this is Monica.  This is my boss, Doug. Doug this is Monica.",(Points to Monica) | (Points to his boss.),,,,5,12
@@ -53847,7 +53847,7 @@ The One with Joey's Interview,stage_direction,,,,,,Goes over and picks up the re
 The One with Joey's Interview,dialogue,CHANDLER,"All right, ready?","All right, ready?",,,,,8,19
 The One with Joey's Interview,dialogue,JOEY,One.,One.,,,,,8,19
 The One with Joey's Interview,dialogue,CHANDLER,Two.,Two.,,,,,8,19
-The One with Joey's Interview,dialogue,BOTH,Three.,Three.,,,,,8,19
+The One with Joey's Interview,dialogue,"CHANDLER, JOEY",Three.,Three.,,,,,8,19
 The One with Joey's Interview,stage_direction,,,,,,Chandler turns off the porn and sets the remote down.,,8,19
 The One with Joey's Interview,dialogue,JOEY,That’s kinda nice.,That’s kinda nice.,,,,,8,19
 The One with Joey's Interview,dialogue,CHANDLER,"Yeah, that’s kinda a relief.","Yeah, that’s kinda a relief.",,,,,8,19
@@ -56772,7 +56772,7 @@ The One with Phoebe's Birthday Dinner,scene_note,,,,,,,"Scene: Ms. Geller, Rache
 The One with Phoebe's Birthday Dinner,dialogue,RACHEL,"Och, god. (seeing Emma) Oh, thank god, you're okay. I'm so sorry we left you. Mom never gonna leave you again. Never ever ever again. Uch.","Och, god.  Oh, thank god, you're okay. I'm so sorry we left you. Mom never gonna leave you again. Never ever ever again. Uch.",(seeing Emma),,,,9,5
 The One with Phoebe's Birthday Dinner,dialogue,ROSS,Great. So let's get going?,Great. So let's get going?,,,,,9,5
 The One with Phoebe's Birthday Dinner,dialogue,RACHEL,"Oh no. I mean it. After what just happened, I'm never leaving her again.","Oh no. I mean it. After what just happened, I'm never leaving her again.",,,,,9,5
-The One with Phoebe's Birthday Dinner,dialogue,MS. GELLER,"I understand, separation is hard. One time I was about to leave Ross to go to the beauty parlor and he got so upset, he took off all his clothes, tucked his ??? between his legs and cried out: 'Mommy, I'm a girl, take me with you.'","I understand, separation is hard. One time I was about to leave Ross to go to the beauty parlor and he got so upset, he took off all his clothes, tucked his ??? between his legs and cried out: 'Mommy, I'm a girl, take me with you.'",,,,,9,5
+The One with Phoebe's Birthday Dinner,dialogue,MRS. GELLER,"I understand, separation is hard. One time I was about to leave Ross to go to the beauty parlor and he got so upset, he took off all his clothes, tucked his ??? between his legs and cried out: 'Mommy, I'm a girl, take me with you.'","I understand, separation is hard. One time I was about to leave Ross to go to the beauty parlor and he got so upset, he took off all his clothes, tucked his ??? between his legs and cried out: 'Mommy, I'm a girl, take me with you.'",,,,,9,5
 The One with Phoebe's Birthday Dinner,dialogue,ROSS,Somehow over time it got easier to be apart from you.,Somehow over time it got easier to be apart from you.,,,,,9,5
 The One with Phoebe's Birthday Dinner,scene_note,,,,,,,"Scene: Bings in bed, finished.",9,5
 The One with Phoebe's Birthday Dinner,dialogue,CHANDLER,Uhh. You are welcome.,Uhh. You are welcome.,,,,,9,5
@@ -58262,7 +58262,7 @@ The One with Christmas in Tulsa,dialogue,CHANDLER,Count of three?,Count of three
 The One with Christmas in Tulsa,dialogue,MONICA,One!,One!,,,,,9,10
 The One with Christmas in Tulsa,dialogue,CHANDLER,Two!,Two!,,,,,9,10
 The One with Christmas in Tulsa,dialogue,MONICA,Two!,Two!,,,,,9,10
-The One with Christmas in Tulsa,dialogue,BOTH,"Three! (They lift up the covers and check each other out, then come back up with silly grins on their faces.)",Three!,"(They lift up the covers and check each other out, then come back up with silly grins on their faces.)",,,,9,10
+The One with Christmas in Tulsa,dialogue,"CHANDLER, MONICA","Three! (They lift up the covers and check each other out, then come back up with silly grins on their faces.)",Three!,"(They lift up the covers and check each other out, then come back up with silly grins on their faces.)",,,,9,10
 The One with Christmas in Tulsa,dialogue,CHANDLER,Well I think it's safe to say that our friendship is effectively ruined.,Well I think it's safe to say that our friendship is effectively ruined.,,,,,9,10
 The One with Christmas in Tulsa,dialogue,MONICA,"Eh, we weren't that close anyway!","Eh, we weren't that close anyway!",,,,,9,10
 The One with Christmas in Tulsa,dialogue,CHANDLER,Eh! (They start making out again),Eh!,(They start making out again),,,,9,10
@@ -62830,7 +62830,7 @@ The One After Joey and Rachel Kiss,dialogue,RACHEL,"Sorry, I just uhm... I can't
 The One After Joey and Rachel Kiss,dialogue,JOEY,"Well, maybe I can help. (he grabs her head passionately, closes his eyes and kisses... Ross in Rachel's dress! He realises it too late, and when he does, pushes Ross's/Rachel's head away)","Well, maybe I can help.","(he grabs her head passionately, closes his eyes and kisses... Ross in Rachel's dress! He realises it too late, and when he does, pushes Ross's/Rachel's head away)",,,,10,1
 The One After Joey and Rachel Kiss,dialogue,"RACHEL, ROSS","Ooh, your lips are so soft... Do that again... (and she/he moves in for another kiss. Joey, pushes her head away again...)","Ooh, your lips are so soft... Do that again...","(and she/he moves in for another kiss. Joey, pushes her head away again...)",,,,10,1
 The One After Joey and Rachel Kiss,dialogue,JOEY,Yeah... we really need to talk to Ross...,Yeah... we really need to talk to Ross...,,,,,10,1
-The One After Joey and Rachel Kiss,dialogue,BOTH,Yeah,Yeah,,,,,10,1
+The One After Joey and Rachel Kiss,dialogue,"RACHEL, JOEY",Yeah,Yeah,,,,,10,1
 The One After Joey and Rachel Kiss,scene_note,,,,,,,Scene: Chandler and Monica's room. Chandler is packing when Ross knocks on the door and enters...,10,1
 The One After Joey and Rachel Kiss,dialogue,ROSS,Hey!,Hey!,,,,,10,1
 The One After Joey and Rachel Kiss,dialogue,CHANDLER,Hey!,Hey!,,,,,10,1
@@ -67030,7 +67030,7 @@ The One Where Joey Speaks French,dialogue,RACHEL,"Hey uhm, do you remember that 
 The One Where Joey Speaks French,dialogue,ROSS,"Oh, ye-ah!","Oh, ye-ah!",,,,,10,13
 The One Where Joey Speaks French,dialogue,RACHEL,You know it was you're uhm... birthday...,You know it was you're uhm... birthday...,,,,,10,13
 The One Where Joey Speaks French,dialogue,ROSS,...Valentine's day...,...Valentine's day...,,,,,10,13
-The One Where Joey Speaks French,dialogue,BOTH,"(long pause, they realize) Oh yeah!",Oh yeah!,"(long pause, they realize)",,,,10,13
+The One Where Joey Speaks French,dialogue,"ROSS, RACHEL","(long pause, they realize) Oh yeah!",Oh yeah!,"(long pause, they realize)",,,,10,13
 The One Where Joey Speaks French,dialogue,RACHEL,"Well, I guess that's all in the past, now.","Well, I guess that's all in the past, now.",,,,,10,13
 The One Where Joey Speaks French,dialogue,ROSS,Hmmm-mmmm.,Hmmm-mmmm.,,,,,10,13
 The One Where Joey Speaks French,dialogue,RACHEL,(after a pause) Not even one more time?,Not even one more time?,(after a pause),,,,10,13
@@ -67639,7 +67639,7 @@ The One Where Estelle Dies,dialogue,RACHEL,Yeah. It was the weirdest thing. Zeln
 The One Where Estelle Dies,dialogue,ROSS,"So, what are you gonna do?","So, what are you gonna do?",,,,,10,15
 The One Where Estelle Dies,dialogue,RACHEL,"Well, I took it.","Well, I took it.",,,,,10,15
 The One Where Estelle Dies,dialogue,ROSS,That's great! So you're staying in New York!,That's great! So you're staying in New York!,,,,,10,15
-The One Where Estelle Dies,dialogue,BOTH,YAY! WHOO! YAY!,YAY! WHOO! YAY!,,,,,10,15
+The One Where Estelle Dies,dialogue,"ROSS, RACHEL",YAY! WHOO! YAY!,YAY! WHOO! YAY!,,,,,10,15
 The One Where Estelle Dies,dialogue,ROSS,"You're excited, right?","You're excited, right?",,,,,10,15
 The One Where Estelle Dies,dialogue,RACHEL,"(hesitant) Ye-ah. Yeah! You know, the money's great. It's certainly the easier choice...","Ye-ah. Yeah! You know, the money's great. It's certainly the easier choice...",(hesitant),,,,10,15
 The One Where Estelle Dies,dialogue,ROSS,Right!,Right!,,,,,10,15
