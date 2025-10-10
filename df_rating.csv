@@ -4,13 +4,13 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 1994,1,3,The One with the Thumb,James Burrows,8.2,4605,"['Mike Sikowitz', 'Jeff Astrof']",0.3333333333333333,0.13333333333333333,0.0,0.0,0.2,0.26666666666666666,0.0,0.06666666666666667,0.0
 1994,1,4,The One with George Stephanopoulos,James Burrows,8.1,4468,['Alexa Junge'],0.1875,0.1875,0.0,0.25,0.0,0.375,0.0,0.0,0.0
 1994,1,5,The One with the East German Laundry Detergent,Pamela Fryman,8.5,4438,"['Jeff Strauss', 'Jeff Greenstein']",0.375,0.1875,0.0,0.0,0.0,0.125,0.0,0.3125,0.0
-1994,1,6,The One with the Butt,Arlene Sanford,8.1,4274,"['Adam Chase', 'Ira Ungerleider']",0.1111111111111111,0.0,0.0,0.0,0.1111111111111111,0.5555555555555556,0.0,0.2222222222222222,0.0
+1994,1,6,The One with the Butt,Arlene Sanford,8.1,4274,"['Ira Ungerleider', 'Adam Chase']",0.1111111111111111,0.0,0.0,0.0,0.1111111111111111,0.5555555555555556,0.0,0.2222222222222222,0.0
 1994,1,7,The One with the Blackout,James Burrows,9.0,5469,"['Mike Sikowitz', 'Jeff Astrof']",0.05,0.4,0.05,0.0,0.0,0.5,0.0,0.0,0.0
 1994,1,8,The One Where Nana Dies Twice,James Burrows,8.1,4156,"['David Crane', 'Marta Kauffman']",0.15384615384615385,0.15384615384615385,0.0,0.07692307692307693,0.23076923076923078,0.23076923076923078,0.15384615384615385,0.0,0.0
 1994,1,9,The One Where Underdog Gets Away,James Burrows,8.2,4038,"['Jeff Strauss', 'Jeff Greenstein']",0.25,0.0,0.08333333333333333,0.0,0.0,0.3333333333333333,0.25,0.0,0.08333333333333333
-1994,1,10,The One with the Monkey,Peter Bonerz,8.1,4064,"['Adam Chase', 'Ira Ungerleider']",0.25,0.0,0.0,0.0,0.0,0.5,0.25,0.0,0.0
+1994,1,10,The One with the Monkey,Peter Bonerz,8.1,4064,"['Ira Ungerleider', 'Adam Chase']",0.25,0.0,0.0,0.0,0.0,0.5,0.25,0.0,0.0
 1995,1,11,The One with Mrs. Bing,James Burrows,8.2,3996,['Alexa Junge'],0.08333333333333333,0.08333333333333333,0.0,0.3333333333333333,0.0,0.4166666666666667,0.0,0.08333333333333333,0.0
-1995,1,12,The One with the Dozen Lasagnas,Paul Lazarus,8.2,3926,"['Mike Sikowitz', 'Jeff Astrof', 'Adam Chase', 'Ira Ungerleider']",0.14285714285714285,0.07142857142857142,0.07142857142857142,0.0,0.07142857142857142,0.5714285714285714,0.07142857142857142,0.0,0.0
+1995,1,12,The One with the Dozen Lasagnas,Paul Lazarus,8.2,3926,"['Mike Sikowitz', 'Jeff Astrof', 'Ira Ungerleider', 'Adam Chase']",0.14285714285714285,0.07142857142857142,0.07142857142857142,0.0,0.07142857142857142,0.5714285714285714,0.07142857142857142,0.0,0.0
 1995,1,13,The One with the Boobies,Alan Myerson,8.7,4172,['Alexa Junge'],0.23076923076923078,0.0,0.07692307692307693,0.0,0.0,0.6923076923076923,0.0,0.0,0.0
 1995,1,14,The One with the Candy Hearts,James Burrows,8.3,3866,['Bill Lawrence'],0.23529411764705882,0.0,0.11764705882352941,0.0,0.0,0.29411764705882354,0.0,0.35294117647058826,0.0
 1995,1,15,The One with the Stoned Guy,Alan Myerson,8.2,3915,"['Jeff Strauss', 'Jeff Greenstein']",0.23076923076923078,0.0,0.0,0.0,0.3076923076923077,0.46153846153846156,0.0,0.0,0.0
@@ -19,12 +19,13 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 1995,1,18,The One with All the Poker,James Burrows,8.8,4340,"['Mike Sikowitz', 'Jeff Astrof']",0.14285714285714285,0.0,0.0,0.0,0.0,0.8571428571428571,0.0,0.0,0.0
 1995,1,19,The One Where the Monkey Gets Away,Peter Bonerz,8.1,3734,"['Mike Sikowitz', 'Jeff Astrof']",0.42857142857142855,0.0,0.0,0.0,0.0,0.42857142857142855,0.0,0.14285714285714285,0.0
 1995,1,20,The One with the Evil Orthodontist,Peter Bonerz,7.9,3736,['Doty Abrams'],0.25,0.0,0.0,0.0,0.25,0.5,0.0,0.0,0.0
-1995,1,21,The One with the Fake Monica,Gail Mancuso,7.9,3769,"['Adam Chase', 'Ira Ungerleider']",0.21428571428571427,0.07142857142857142,0.0,0.0,0.0,0.42857142857142855,0.0,0.21428571428571427,0.07142857142857142
+1995,1,21,The One with the Fake Monica,Gail Mancuso,7.9,3769,"['Ira Ungerleider', 'Adam Chase']",0.21428571428571427,0.07142857142857142,0.0,0.0,0.0,0.42857142857142855,0.0,0.21428571428571427,0.07142857142857142
 1995,1,22,The One with the Ick Factor,Robby Benson,8.3,3720,['Alexa Junge'],0.2,0.0,0.2,0.0,0.2,0.4,0.0,0.0,0.0
-1995,1,23,The One with the Birth,James Burrows,8.7,3919,"['Jeff Astrof', 'David Crane', 'Marta Kauffman', 'Jeff Greenstein']",0.0,0.0,0.09523809523809523,0.9047619047619048,0.0,0.0,0.0,0.0,0.0
+1995,1,23,The One with the Birth,James Burrows,8.7,3919,"['David Crane', 'Marta Kauffman', 'Jeff Greenstein', 'Jeff Astrof']",0.0,0.0,0.09523809523809523,0.9047619047619048,0.0,0.0,0.0,0.0,0.0
 1995,1,24,The One Where Rachel Finds Out,Kevin Bright,8.9,4187,['Chris Brown'],0.1111111111111111,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.2222222222222222
 1995,2,1,The One with Ross's New Girlfriend,Michael Lembeck,8.5,3814,"['Mike Sikowitz', 'Jeff Astrof']",0.3,0.1,0.0,0.0,0.0,0.5,0.0,0.0,0.1
-1995,2,2,The One with the Breast Milk,Michael Lembeck,8.2,3669,"['Adam Chase', 'Ira Ungerleider']",0.2857142857142857,0.21428571428571427,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+1995,2,2,The One with the Breast Milk,Michael Lembeck,8.2,3669,"['Ira Ungerleider', 'Adam Chase']",0.2857142857142857,0.21428571428571427,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+1995,2,3,The One Where Heckles Dies,Kevin Bright,8.4,3676,"['Greg Malins', 'Michael Curtis']",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 1995,2,4,The One with Phoebe's Husband,Gail Mancuso,8.0,3555,['Alexa Junge'],0.18181818181818182,0.36363636363636365,0.0,0.0,0.0,0.45454545454545453,0.0,0.0,0.0
 1995,2,5,The One with Five Steaks and an Eggplant,Ellen Gittelsohn,8.3,3550,['Chris Brown'],0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 1995,2,6,The One with the Baby on the Bus,Gail Mancuso,8.6,3822,['Betsy Borns'],0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
@@ -39,9 +40,9 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 1996,2,15,The One Where Ross and Rachel... You Know,Michael Lembeck,8.9,3928,"['Greg Malins', 'Michael Curtis']",0.0,0.0,0.0,0.06666666666666667,0.26666666666666666,0.5333333333333333,0.13333333333333333,0.0,0.0
 1996,2,16,The One Where Joey Moves Out,Michael Lembeck,8.6,3435,['Betsy Borns'],0.0,0.125,0.0,0.0,0.0,0.4375,0.1875,0.25,0.0
 1996,2,17,The One Where Eddie Moves In,Michael Lembeck,8.3,3407,['Adam Chase'],0.26666666666666666,0.0,0.0,0.0,0.06666666666666667,0.5333333333333333,0.13333333333333333,0.0,0.0
-1996,2,18,The One Where Dr. Ramoray Dies,Michael Lembeck,8.5,3403,"['Michael Borkow', 'Alexa Junge']",0.13333333333333333,0.0,0.0,0.0,0.06666666666666667,0.4666666666666667,0.3333333333333333,0.0,0.0
+1996,2,18,The One Where Dr. Ramoray Dies,Michael Lembeck,8.5,3403,"['Alexa Junge', 'Michael Borkow']",0.13333333333333333,0.0,0.0,0.0,0.06666666666666667,0.4666666666666667,0.3333333333333333,0.0,0.0
 1996,2,19,The One Where Eddie Won't Go,Michael Lembeck,8.6,3495,"['Greg Malins', 'Michael Curtis']",0.26666666666666666,0.0,0.06666666666666667,0.0,0.13333333333333333,0.5333333333333333,0.0,0.0,0.0
-1996,2,20,The One Where Old Yeller Dies,Michael Lembeck,8.2,3295,"['Greg Malins', 'Adam Chase', 'Michael Curtis']",0.2,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0
+1996,2,20,The One Where Old Yeller Dies,Michael Lembeck,8.2,3295,"['Greg Malins', 'Michael Curtis', 'Adam Chase']",0.2,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0
 1996,2,21,The One with the Bullies,Michael Lembeck,8.2,3337,"['Brian Buckner', 'Sebastian Jones']",0.3076923076923077,0.0,0.0,0.0,0.0,0.38461538461538464,0.15384615384615385,0.07692307692307693,0.07692307692307693
 1996,2,22,The One with the Two Parties,Michael Lembeck,9.0,4151,['Alexa Junge'],0.14285714285714285,0.0,0.2857142857142857,0.0,0.14285714285714285,0.2857142857142857,0.0,0.14285714285714285,0.0
 1996,2,23,The One with the Chicken Pox,Michael Lembeck,8.1,3360,['Brown Mandell'],0.21428571428571427,0.0,0.0,0.0,0.2857142857142857,0.5,0.0,0.0,0.0
@@ -50,7 +51,7 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 1996,3,2,The One Where No One's Ready,Gail Mancuso,9.0,4637,['Ira Ungerleider'],0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.3333333333333333,0.0
 1996,3,3,The One with the Jam,Kevin Bright,8.1,3324,['Wil Calhoun'],0.25,0.08333333333333333,0.0,0.0,0.0,0.5833333333333334,0.0,0.0,0.08333333333333333
 1996,3,4,The One with the Metaphorical Tunnel,Steve Zuckerman,8.1,3199,['Alexa Junge'],0.25,0.08333333333333333,0.0,0.0,0.0,0.5833333333333334,0.08333333333333333,0.0,0.0
-1996,3,5,The One with Frank Jr.,Steve Zuckerman,8.1,3292,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.26666666666666666,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.06666666666666667,0.0
+1996,3,5,The One with Frank Jr.,Steve Zuckerman,8.1,3292,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.26666666666666666,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.06666666666666667,0.0
 1996,3,6,The One with the Flashback,Peter Bonerz,9.1,4291,"['David Crane', 'Marta Kauffman']",0.06666666666666667,0.0,0.13333333333333333,0.0,0.0,0.5333333333333333,0.0,0.26666666666666666,0.0
 1996,3,7,The One with the Race Car Bed,Gail Mancuso,8.3,3238,['Seth Kurland'],0.1875,0.125,0.0625,0.0,0.25,0.3125,0.0,0.0625,0.0
 1996,3,8,The One with the Giant Poking Device,Gail Mancuso,8.4,3258,['Adam Chase'],0.15384615384615385,0.07692307692307693,0.0,0.0,0.0,0.7692307692307693,0.0,0.0,0.0
@@ -62,39 +63,39 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 1997,3,14,The One with Phoebe's Ex-Partner,Robby Benson,7.9,3211,['Wil Calhoun'],0.2777777777777778,0.05555555555555555,0.0,0.0,0.16666666666666666,0.4444444444444444,0.05555555555555555,0.0,0.0
 1997,3,15,The One Where Ross and Rachel Take a Break,James Burrows,8.5,3450,['Michael Borkow'],0.11764705882352941,0.11764705882352941,0.0,0.0,0.058823529411764705,0.35294117647058826,0.0,0.35294117647058826,0.0
 1997,3,16,The One with the Morning After,James Burrows,9.1,4192,"['David Crane', 'Marta Kauffman']",0.07142857142857142,0.07142857142857142,0.0,0.0,0.07142857142857142,0.7142857142857143,0.0,0.07142857142857142,0.0
-1997,3,17,The One Without the Ski Trip,Sam Simon,8.3,3154,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.09090909090909091,0.36363636363636365,0.0,0.0,0.0,0.18181818181818182,0.2727272727272727,0.0,0.09090909090909091
+1997,3,17,The One Without the Ski Trip,Sam Simon,8.3,3154,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.09090909090909091,0.36363636363636365,0.0,0.0,0.0,0.18181818181818182,0.2727272727272727,0.0,0.09090909090909091
 1997,3,18,The One with the Hypnosis Tape,Robby Benson,8.4,3268,['Seth Kurland'],0.06666666666666667,0.0,0.0,0.0,0.13333333333333333,0.7333333333333333,0.0,0.06666666666666667,0.0
 1997,3,19,The One with the Tiny T-Shirt,Terry Hughes,8.2,3147,['Adam Chase'],0.1875,0.0,0.125,0.0625,0.0,0.4375,0.0,0.1875,0.0
 1997,3,20,The One with the Dollhouse,Terry Hughes,8.1,3134,['Wil Calhoun'],0.06666666666666667,0.0,0.0,0.0,0.26666666666666666,0.4666666666666667,0.0,0.2,0.0
 1997,3,21,The One with the Chick and the Duck,Michael Lembeck,8.7,3359,['Chris Brown'],0.1875,0.0,0.0625,0.0,0.125,0.5625,0.0,0.0625,0.0
-1997,3,22,The One with the Screamer,Peter Bonerz,8.3,3185,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.07692307692307693,0.0,0.0,0.0,0.23076923076923078,0.46153846153846156,0.07692307692307693,0.15384615384615385,0.0
-1997,3,23,The One with Ross's Thing,Shelley Jensen,8.1,3120,"['Andrew Reich', 'Ted Cohen']",0.26666666666666666,0.13333333333333333,0.0,0.13333333333333333,0.13333333333333333,0.13333333333333333,0.2,0.0,0.0
-1997,3,24,The One with the Ultimate Fighting Champion,Robby Benson,8.1,3253,"['Pang-Ni Landrum', 'Mark J. Kunerth', 'Scott Silveri', 'Shana Goldberg-Meehan']",0.21428571428571427,0.14285714285714285,0.0,0.0,0.2857142857142857,0.21428571428571427,0.0,0.14285714285714285,0.0
-1997,3,25,The One at the Beach,Pamela Fryman,8.9,3600,"['Adam Chase', 'Pang-Ni Landrum', 'Mark J. Kunerth']",0.15384615384615385,0.07692307692307693,0.07692307692307693,0.0,0.0,0.0,0.6923076923076923,0.0,0.0
+1997,3,22,The One with the Screamer,Peter Bonerz,8.3,3185,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.07692307692307693,0.0,0.0,0.0,0.23076923076923078,0.46153846153846156,0.07692307692307693,0.15384615384615385,0.0
+1997,3,23,The One with Ross's Thing,Shelley Jensen,8.1,3120,"['Ted Cohen', 'Andrew Reich']",0.26666666666666666,0.13333333333333333,0.0,0.13333333333333333,0.13333333333333333,0.13333333333333333,0.2,0.0,0.0
+1997,3,24,The One with the Ultimate Fighting Champion,Robby Benson,8.1,3253,"['Mark J. Kunerth', 'Shana Goldberg-Meehan', 'Scott Silveri', 'Pang-Ni Landrum']",0.21428571428571427,0.14285714285714285,0.0,0.0,0.2857142857142857,0.21428571428571427,0.0,0.14285714285714285,0.0
+1997,3,25,The One at the Beach,Pamela Fryman,8.9,3600,"['Mark J. Kunerth', 'Pang-Ni Landrum', 'Adam Chase']",0.15384615384615385,0.07692307692307693,0.07692307692307693,0.0,0.0,0.0,0.6923076923076923,0.0,0.0
 1997,4,1,The One with the Jellyfish,Shelley Jensen,9.1,4099,['Wil Calhoun'],0.15384615384615385,0.07692307692307693,0.07692307692307693,0.0,0.0,0.23076923076923078,0.46153846153846156,0.0,0.0
 1997,4,2,The One with the Cat,Shelley Jensen,8.1,3169,"['Amy Toomin', 'Jill Condon']",0.2,0.06666666666666667,0.0,0.0,0.0,0.6666666666666666,0.0,0.06666666666666667,0.0
 1997,4,3,The One with the 'Cuffs,Peter Bonerz,8.5,3185,['Seth Kurland'],0.0625,0.0,0.0,0.0,0.3125,0.375,0.25,0.0,0.0
-1997,4,4,The One with the Ballroom Dancing,Gail Mancuso,8.2,3122,"['Andrew Reich', 'Ted Cohen']",0.07142857142857142,0.21428571428571427,0.0,0.0,0.0,0.2857142857142857,0.2857142857142857,0.14285714285714285,0.0
+1997,4,4,The One with the Ballroom Dancing,Gail Mancuso,8.2,3122,"['Ted Cohen', 'Andrew Reich']",0.07142857142857142,0.21428571428571427,0.0,0.0,0.0,0.2857142857142857,0.2857142857142857,0.14285714285714285,0.0
 1997,4,5,The One with Joey's New Girlfriend,Gail Mancuso,8.4,3157,"['Greg Malins', 'Michael Curtis']",0.3125,0.0625,0.0,0.0,0.0,0.5,0.0625,0.0625,0.0
-1997,4,6,The One with the Dirty Girl,Shelley Jensen,8.5,3238,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.15384615384615385,0.0,0.0,0.0,0.23076923076923078,0.38461538461538464,0.23076923076923078,0.0,0.0
+1997,4,6,The One with the Dirty Girl,Shelley Jensen,8.5,3238,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.15384615384615385,0.0,0.0,0.0,0.23076923076923078,0.38461538461538464,0.23076923076923078,0.0,0.0
 1997,4,7,The One Where Chandler Crosses the Line,Kevin Bright,8.7,3294,['Adam Chase'],0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
 1997,4,8,The One with Chandler in a Box,Peter Bonerz,9.1,4139,['Michael Borkow'],0.1111111111111111,0.0,0.0,0.2222222222222222,0.0,0.6666666666666666,0.0,0.0,0.0
-1997,4,9,The One Where They're Going to Party!,Peter Bonerz,7.9,3045,"['Andrew Reich', 'Ted Cohen']",0.23076923076923078,0.0,0.0,0.0,0.23076923076923078,0.46153846153846156,0.0,0.07692307692307693,0.0
+1997,4,9,The One Where They're Going to Party!,Peter Bonerz,7.9,3045,"['Ted Cohen', 'Andrew Reich']",0.23076923076923078,0.0,0.0,0.0,0.23076923076923078,0.46153846153846156,0.0,0.07692307692307693,0.0
 1997,4,10,The One with the Girl from Poughkeepsie,Gary Halvorson,8.1,3025,['Scott Silveri'],0.3333333333333333,0.0,0.0,0.0,0.3333333333333333,0.2,0.0,0.0,0.13333333333333333
 1998,4,11,The One with Phoebe's Uterus,David Steinberg,8.5,3210,"['Amy Toomin', 'Jill Condon']",0.0,0.0,0.0,0.25,0.0,0.75,0.0,0.0,0.0
 1998,4,12,The One with the Embryos,Kevin Bright,9.5,6006,"['Amy Toomin', 'Jill Condon']",0.0,0.0,0.0,0.25,0.0,0.75,0.0,0.0,0.0
 1998,4,13,The One with Rachel's Crush,Dana De Vally Piazza,8.2,3006,['Shana Goldberg-Meehan'],0.07692307692307693,0.0,0.07692307692307693,0.0,0.0,0.38461538461538464,0.07692307692307693,0.38461538461538464,0.0
 1998,4,14,The One with Joey's Dirty Day,Peter Bonerz,8.2,3028,['Wil Calhoun'],0.1,0.0,0.0,0.0,0.2,0.5,0.0,0.2,0.0
-1998,4,15,The One with All the Rugby,James Burrows,8.5,3180,"['Andrew Reich', 'Ted Cohen', 'Wil Calhoun']",0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.42857142857142855,0.0,0.14285714285714285,0.14285714285714285
-1998,4,16,The One with the Fake Party,Michael Lembeck,8.2,3061,"['Alicia Sky Varinaitis', 'Scott Silveri', 'Shana Goldberg-Meehan']",0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.5,0.0,0.16666666666666666,0.0
-1998,4,17,The One with the Free Porn,Michael Lembeck,8.6,3212,"['Richard Goodman', 'Mark J. Kunerth']",0.09090909090909091,0.09090909090909091,0.0,0.0,0.0,0.7272727272727273,0.0,0.0,0.09090909090909091
-1998,4,18,The One with Rachel's New Dress,Gail Mancuso,8.3,3011,"['Amy Toomin', 'Jill Condon', 'Andrew Reich', 'Ted Cohen']",0.16666666666666666,0.0,0.0,0.0,0.0,0.6666666666666666,0.08333333333333333,0.0,0.08333333333333333
+1998,4,15,The One with All the Rugby,James Burrows,8.5,3180,"['Ted Cohen', 'Wil Calhoun', 'Andrew Reich']",0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.42857142857142855,0.0,0.14285714285714285,0.14285714285714285
+1998,4,16,The One with the Fake Party,Michael Lembeck,8.2,3061,"['Shana Goldberg-Meehan', 'Scott Silveri', 'Alicia Sky Varinaitis']",0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.5,0.0,0.16666666666666666,0.0
+1998,4,17,The One with the Free Porn,Michael Lembeck,8.6,3212,"['Mark J. Kunerth', 'Richard Goodman']",0.09090909090909091,0.09090909090909091,0.0,0.0,0.0,0.7272727272727273,0.0,0.0,0.09090909090909091
+1998,4,18,The One with Rachel's New Dress,Gail Mancuso,8.3,3011,"['Andrew Reich', 'Ted Cohen', 'Amy Toomin', 'Jill Condon']",0.16666666666666666,0.0,0.0,0.0,0.0,0.6666666666666666,0.08333333333333333,0.0,0.08333333333333333
 1998,4,19,The One with All the Haste,Kevin Bright,8.7,3168,"['Scott Silveri', 'Wil Calhoun']",0.14285714285714285,0.0,0.14285714285714285,0.0,0.0,0.7142857142857143,0.0,0.0,0.0
-1998,4,20,The One with All the Wedding Dresses,Gail Mancuso,8.5,3110,"['Greg Malins', 'Adam Chase', 'Michael Curtis']",0.23076923076923078,0.15384615384615385,0.0,0.0,0.0,0.6153846153846154,0.0,0.0,0.0
+1998,4,20,The One with All the Wedding Dresses,Gail Mancuso,8.5,3110,"['Greg Malins', 'Michael Curtis', 'Adam Chase']",0.23076923076923078,0.15384615384615385,0.0,0.0,0.0,0.6153846153846154,0.0,0.0,0.0
 1998,4,21,The One with the Invitation,Peter Bonerz,7.2,3364,['Seth Kurland'],0.20689655172413793,0.06896551724137931,0.034482758620689655,0.0,0.034482758620689655,0.5517241379310345,0.034482758620689655,0.034482758620689655,0.034482758620689655
 1998,4,22,The One with the Worst Best Man Ever,Peter Bonerz,8.5,3052,"['Greg Malins', 'Seth Kurland', 'Michael Curtis']",0.2,0.06666666666666667,0.0,0.0,0.06666666666666667,0.6666666666666666,0.0,0.0,0.0
 1998,4,23,The One with Ross's Wedding,Kevin Bright,8.7,3343,['Michael Borkow'],0.0,0.3333333333333333,0.0,0.0,0.0,0.4166666666666667,0.25,0.0,0.0
-1998,4,24,The One with Ross's Wedding,Kevin Bright,9.2,4217,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.0,0.0,0.0,0.0,0.0,0.11764705882352941,0.23529411764705882,0.4117647058823529,0.23529411764705882
+1998,4,24,The One with Ross's Wedding,Kevin Bright,9.2,4217,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.0,0.0,0.0,0.0,0.0,0.11764705882352941,0.23529411764705882,0.4117647058823529,0.23529411764705882
 1998,5,1,The One After Ross Says Rachel,Kevin Bright,8.9,3609,['Seth Kurland'],0.0,0.0,0.0,0.0,0.0,0.1111111111111111,0.3333333333333333,0.2222222222222222,0.3333333333333333
 1998,5,2,The One with All the Kissing,Gary Halvorson,9.0,3674,['Wil Calhoun'],0.3333333333333333,0.0,0.2222222222222222,0.0,0.0,0.4444444444444444,0.0,0.0,0.0
 1998,5,3,The One Hundredth,Kevin Bright,8.8,3331,"['David Crane', 'Marta Kauffman']",0.0,0.0,0.06666666666666667,0.8,0.0,0.13333333333333333,0.0,0.0,0.0
@@ -103,49 +104,49 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 1998,5,6,The One with the Yeti,Gary Halvorson,8.1,3001,['Alexa Junge'],0.25,0.08333333333333333,0.08333333333333333,0.0,0.0,0.5833333333333334,0.0,0.0,0.0
 1998,5,7,The One Where Ross Moves In,Gary Halvorson,8.4,3029,"['Perry Rein', 'Gigi McCreery']",0.25,0.0,0.0,0.0,0.0625,0.5,0.0625,0.125,0.0
 1998,5,8,The One with All the Thanksgivings,Kevin Bright,9.2,4261,['Greg Malins'],0.0,0.0,0.0,0.2727272727272727,0.09090909090909091,0.36363636363636365,0.2727272727272727,0.0,0.0
-1998,5,9,The One with Ross's Sandwich,Gary Halvorson,9.1,3913,"['Andrew Reich', 'Ted Cohen']",0.25,0.0,0.08333333333333333,0.0,0.4166666666666667,0.25,0.0,0.0,0.0
+1998,5,9,The One with Ross's Sandwich,Gary Halvorson,9.1,3913,"['Ted Cohen', 'Andrew Reich']",0.25,0.0,0.08333333333333333,0.0,0.4166666666666667,0.25,0.0,0.0,0.0
 1998,5,10,The One with the Inappropriate Sister,Dana De Vally Piazza,8.2,2980,['Shana Goldberg-Meehan'],0.11764705882352941,0.0,0.0,0.0,0.058823529411764705,0.5294117647058824,0.11764705882352941,0.17647058823529413,0.0
 1999,5,11,The One with All the Resolutions,Joe Regalbuto,9.1,3781,"['Suzie Villandry', 'Brian Boyle']",0.2727272727272727,0.0,0.0,0.0,0.0,0.5454545454545454,0.18181818181818182,0.0,0.0
 1999,5,12,The One with Chandler's Work Laugh,Kevin Bright,8.3,2949,['Alicia Sky Varinaitis'],0.21428571428571427,0.07142857142857142,0.0,0.0,0.07142857142857142,0.5714285714285714,0.07142857142857142,0.0,0.0
 1999,5,13,The One with Joey's Bag,Gail Mancuso,8.1,2959,"['Seth Kurland', 'Michael Curtis']",0.2727272727272727,0.0,0.0,0.0,0.09090909090909091,0.36363636363636365,0.09090909090909091,0.18181818181818182,0.0
 1999,5,14,The One Where Everybody Finds Out,Michael Lembeck,9.7,8066,['Alexa Junge'],0.1,0.0,0.0,0.0,0.0,0.7,0.2,0.0,0.0
 1999,5,15,The One with the Girl Who Hits Joey,Kevin Bright,8.5,3125,['Adam Chase'],0.38461538461538464,0.0,0.07692307692307693,0.0,0.0,0.46153846153846156,0.0,0.07692307692307693,0.0
-1999,5,16,The One with the Cop,Andrew Tsao,8.6,3174,"['Alicia Sky Varinaitis', 'Perry Rein', 'Gigi McCreery']",0.23076923076923078,0.15384615384615385,0.15384615384615385,0.0,0.0,0.46153846153846156,0.0,0.0,0.0
-1999,5,17,The One with Rachel's Inadvertent Kiss,Shelley Jensen,8.5,2977,"['Andrew Reich', 'Ted Cohen']",0.13333333333333333,0.0,0.06666666666666667,0.0,0.13333333333333333,0.5333333333333333,0.06666666666666667,0.06666666666666667,0.0
+1999,5,16,The One with the Cop,Andrew Tsao,8.6,3174,"['Perry Rein', 'Alicia Sky Varinaitis', 'Gigi McCreery']",0.23076923076923078,0.15384615384615385,0.15384615384615385,0.0,0.0,0.46153846153846156,0.0,0.0,0.0
+1999,5,17,The One with Rachel's Inadvertent Kiss,Shelley Jensen,8.5,2977,"['Ted Cohen', 'Andrew Reich']",0.13333333333333333,0.0,0.06666666666666667,0.0,0.13333333333333333,0.5333333333333333,0.06666666666666667,0.06666666666666667,0.0
 1999,5,18,The One Where Rachel Smokes,Todd Holland,8.0,2898,['Michael Curtis'],0.14285714285714285,0.2857142857142857,0.0,0.0,0.2857142857142857,0.2857142857142857,0.0,0.0,0.0
 1999,5,19,The One Where Ross Can't Flirt,Gail Mancuso,8.7,3242,['Doty Abrams'],0.0,0.16666666666666666,0.0,0.0,0.0,0.8333333333333334,0.0,0.0,0.0
-1999,5,20,The One with the Ride Along,Gary Halvorson,8.3,2888,"['Seth Kurland', 'Shana Goldberg-Meehan']",0.25,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.25
+1999,5,20,The One with the Ride Along,Gary Halvorson,8.3,2888,"['Shana Goldberg-Meehan', 'Seth Kurland']",0.25,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.25
 1999,5,21,The One with the Ball,Gary Halvorson,8.5,3010,"['Greg Malins', 'Scott Silveri']",0.3333333333333333,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.16666666666666666
 1999,5,22,The One with Joey's Big Break,Gary Halvorson,8.3,2857,"['Shana Goldberg-Meehan', 'Wil Calhoun']",0.3333333333333333,0.08333333333333333,0.0,0.08333333333333333,0.08333333333333333,0.4166666666666667,0.0,0.0,0.0
-1999,5,23,The One in Vegas: Part 1,Kevin Bright,8.8,3282,"['Andrew Reich', 'Ted Cohen']",0.0,0.0,0.0,0.0,0.0,0.3076923076923077,0.15384615384615385,0.23076923076923078,0.3076923076923077
+1999,5,23,The One in Vegas: Part 1,Kevin Bright,8.8,3282,"['Ted Cohen', 'Andrew Reich']",0.0,0.0,0.0,0.0,0.0,0.3076923076923077,0.15384615384615385,0.23076923076923078,0.3076923076923077
 1999,5,24,The One in Vegas: Part 2,Kevin Bright,9.1,3726,"['Greg Malins', 'Scott Silveri']",0.0,0.15384615384615385,0.0,0.0,0.0,0.0,0.23076923076923078,0.6153846153846154,0.0
 1999,6,1,The One After Vegas,Kevin Bright,8.7,3175,['Adam Chase'],0.15384615384615385,0.0,0.15384615384615385,0.0,0.23076923076923078,0.15384615384615385,0.07692307692307693,0.23076923076923078,0.0
 1999,6,2,The One Where Ross Hugs Rachel,Gail Mancuso,8.2,2883,['Shana Goldberg-Meehan'],0.36363636363636365,0.0,0.09090909090909091,0.0,0.09090909090909091,0.45454545454545453,0.0,0.0,0.0
 1999,6,3,The One with Ross's Denial,Gary Halvorson,8.2,2851,['Seth Kurland'],0.3076923076923077,0.0,0.0,0.0,0.0,0.6923076923076923,0.0,0.0,0.0
-1999,6,4,The One Where Joey Loses His Insurance,Gary Halvorson,8.5,2976,"['Andrew Reich', 'Ted Cohen']",0.11764705882352941,0.0,0.0,0.0,0.4117647058823529,0.47058823529411764,0.0,0.0,0.0
+1999,6,4,The One Where Joey Loses His Insurance,Gary Halvorson,8.5,2976,"['Ted Cohen', 'Andrew Reich']",0.11764705882352941,0.0,0.0,0.0,0.4117647058823529,0.47058823529411764,0.0,0.0,0.0
 1999,6,5,The One with Joey's Porsche,Gary Halvorson,8.2,2902,"['Perry Rein', 'Gigi McCreery']",0.15384615384615385,0.23076923076923078,0.0,0.0,0.0,0.5384615384615384,0.0,0.0,0.07692307692307693
 1999,6,6,The One on the Last Night,David Schwimmer,8.5,2942,['Scott Silveri'],0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
 1999,6,7,The One Where Phoebe Runs,Gary Halvorson,8.4,2959,"['Ellen Plummer', 'Sherry Bilsing']",0.14285714285714285,0.21428571428571427,0.0,0.0,0.0,0.42857142857142855,0.21428571428571427,0.0,0.0
 1999,6,8,The One with Ross' Teeth,Gary Halvorson,8.5,3074,"['Perry Rein', 'Gigi McCreery']",0.125,0.0,0.0,0.0,0.25,0.4375,0.1875,0.0,0.0
 1999,6,9,The One Where Ross Got High,Kevin Bright,9.2,4187,['Greg Malins'],0.0,0.0,0.0,0.0,0.0,0.875,0.125,0.0,0.0
 1999,6,10,The One with the Routine,Kevin Bright,8.6,3139,['Brian Boyle'],0.08333333333333333,0.08333333333333333,0.0,0.0,0.3333333333333333,0.5,0.0,0.0,0.0
-2000,6,11,The One with the Apothecary Table,Kevin Bright,8.1,2892,"['Zachary Rosenblatt', 'Brian Boyle']",0.16666666666666666,0.08333333333333333,0.16666666666666666,0.0,0.0,0.3333333333333333,0.25,0.0,0.0
-2000,6,12,The One with the Joke,Gary Halvorson,8.1,2829,"['Andrew Reich', 'Shana Goldberg-Meehan', 'Ted Cohen']",0.4166666666666667,0.0,0.0,0.0,0.0,0.4166666666666667,0.16666666666666666,0.0,0.0
-2000,6,13,The One with Rachel's Sister,Gary Halvorson,8.2,2950,"['Ellen Plummer', 'Sherry Bilsing', 'Seth Kurland']",0.45454545454545453,0.0,0.0,0.0,0.0,0.45454545454545453,0.09090909090909091,0.0,0.0
-2000,6,14,The One Where Chandler Can't Cry,Kevin Bright,8.6,2996,"['Andrew Reich', 'Ted Cohen']",0.38461538461538464,0.0,0.0,0.0,0.0,0.5384615384615384,0.07692307692307693,0.0,0.0
+2000,6,11,The One with the Apothecary Table,Kevin Bright,8.1,2892,"['Brian Boyle', 'Zachary Rosenblatt']",0.16666666666666666,0.08333333333333333,0.16666666666666666,0.0,0.0,0.3333333333333333,0.25,0.0,0.0
+2000,6,12,The One with the Joke,Gary Halvorson,8.1,2829,"['Shana Goldberg-Meehan', 'Ted Cohen', 'Andrew Reich']",0.4166666666666667,0.0,0.0,0.0,0.0,0.4166666666666667,0.16666666666666666,0.0,0.0
+2000,6,13,The One with Rachel's Sister,Gary Halvorson,8.2,2950,"['Seth Kurland', 'Sherry Bilsing', 'Ellen Plummer']",0.45454545454545453,0.0,0.0,0.0,0.0,0.45454545454545453,0.09090909090909091,0.0,0.0
+2000,6,14,The One Where Chandler Can't Cry,Kevin Bright,8.6,2996,"['Ted Cohen', 'Andrew Reich']",0.38461538461538464,0.0,0.0,0.0,0.0,0.5384615384615384,0.07692307692307693,0.0,0.0
 2000,6,15,The One That Could Have Been,Michael Lembeck,8.5,3097,"['Greg Malins', 'Adam Chase']",0.25,0.08333333333333333,0.0,0.25,0.25,0.0,0.16666666666666666,0.0,0.0
 2000,6,16,The One That Could Have Been,Michael Lembeck,8.5,3037,"['David Crane', 'Marta Kauffman']",0.125,0.0,0.0,0.0625,0.3125,0.25,0.25,0.0,0.0
 2000,6,17,The One with Unagi,Gary Halvorson,9.1,4180,"['Zachary Rosenblatt', 'Adam Chase']",0.2,0.0,0.06666666666666667,0.13333333333333333,0.06666666666666667,0.4,0.06666666666666667,0.06666666666666667,0.0
 2000,6,18,The One Where Ross Dates a Student,Gary Halvorson,8.3,2870,['Seth Kurland'],0.1,0.05,0.0,0.0,0.05,0.6,0.15,0.05,0.0
 2000,6,19,The One with Joey's Fridge,Ben Weiss,8.3,2920,"['Perry Rein', 'Gigi McCreery', 'Seth Kurland']",0.25,0.0,0.0,0.0,0.16666666666666666,0.4166666666666667,0.08333333333333333,0.0,0.08333333333333333
 2000,6,20,The One with Mac and C.H.E.E.S.E.,Kevin Bright,7.4,3096,['Doty Abrams'],0.08333333333333333,0.0,0.0,0.0,0.08333333333333333,0.75,0.0,0.08333333333333333,0.0
-2000,6,21,The One Where Ross Meets Elizabeth's Dad,Michael Lembeck,8.6,3063,"['David J. Lagana', 'Scott Silveri']",0.26666666666666666,0.0,0.0,0.0,0.26666666666666666,0.3333333333333333,0.0,0.13333333333333333,0.0
+2000,6,21,The One Where Ross Meets Elizabeth's Dad,Michael Lembeck,8.6,3063,"['Scott Silveri', 'David J. Lagana']",0.26666666666666666,0.0,0.0,0.0,0.26666666666666666,0.3333333333333333,0.0,0.13333333333333333,0.0
 2000,6,22,The One Where Paul's the Man,Gary Halvorson,9.0,3578,"['Ellen Plummer', 'Sherry Bilsing', 'Brian Caldirola']",0.21428571428571427,0.35714285714285715,0.0,0.0,0.0,0.21428571428571427,0.21428571428571427,0.0,0.0
-2000,6,23,The One with the Ring,Gary Halvorson,8.6,2980,"['Andrew Reich', 'Ted Cohen']",0.2,0.2,0.0,0.0,0.0,0.5333333333333333,0.0,0.06666666666666667,0.0
-2000,6,24,The One with the Proposal,Kevin Bright,8.8,3065,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.13333333333333333,0.0,0.0,0.0,0.0,0.26666666666666666,0.2,0.4,0.0
-2000,6,25,The One with the Proposal,Kevin Bright,9.3,4186,"['Andrew Reich', 'Ted Cohen']",0.25,0.0,0.08333333333333333,0.0,0.0,0.3333333333333333,0.25,0.08333333333333333,0.0
-2000,7,1,The One with Monica's Thunder,Kevin Bright,8.4,3022,"['David Crane', 'Marta Kauffman', 'Wil Calhoun']",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-2000,7,2,The One with Rachel's Book,Michael Lembeck,8.3,2817,"['Andrew Reich', 'Ted Cohen']",0.07692307692307693,0.0,0.0,0.0,0.07692307692307693,0.6923076923076923,0.0,0.15384615384615385,0.0
+2000,6,23,The One with the Ring,Gary Halvorson,8.6,2980,"['Ted Cohen', 'Andrew Reich']",0.2,0.2,0.0,0.0,0.0,0.5333333333333333,0.0,0.06666666666666667,0.0
+2000,6,24,The One with the Proposal,Kevin Bright,8.8,3065,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.13333333333333333,0.0,0.0,0.0,0.0,0.26666666666666666,0.2,0.4,0.0
+2000,6,25,The One with the Proposal,Kevin Bright,9.3,4186,"['Ted Cohen', 'Andrew Reich']",0.25,0.0,0.08333333333333333,0.0,0.0,0.3333333333333333,0.25,0.08333333333333333,0.0
+2000,7,1,The One with Monica's Thunder,Kevin Bright,8.4,3022,"['Wil Calhoun', 'David Crane', 'Marta Kauffman']",0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+2000,7,2,The One with Rachel's Book,Michael Lembeck,8.3,2817,"['Ted Cohen', 'Andrew Reich']",0.07692307692307693,0.0,0.0,0.0,0.07692307692307693,0.6923076923076923,0.0,0.15384615384615385,0.0
 2000,7,3,The One with Phoebe's Cookies,Gary Halvorson,8.1,2803,"['Ellen Plummer', 'Sherry Bilsing']",0.25,0.08333333333333333,0.0,0.0,0.0,0.4166666666666667,0.25,0.0,0.0
 2000,7,4,The One with Rachel's Assistant,David Schwimmer,8.1,2820,['Brian Boyle'],0.2,0.0,0.0,0.0,0.4,0.4,0.0,0.0,0.0
 2000,7,5,The One with the Engagement Picture,Gary Halvorson,8.1,2785,"['Earl Davis', 'Patty Lin']",0.375,0.0,0.0,0.0,0.4375,0.1875,0.0,0.0,0.0
@@ -157,13 +158,13 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 2001,7,11,The One with All the Cheesecakes,Gary Halvorson,8.6,2936,['Shana Goldberg-Meehan'],0.3125,0.0,0.125,0.0,0.0625,0.3125,0.0,0.1875,0.0
 2001,7,12,The One Where They're Up All Night,Kevin Bright,8.7,2983,['Zachary Rosenblatt'],0.0,0.0,0.0,0.0,0.15789473684210525,0.8421052631578947,0.0,0.0,0.0
 2001,7,13,The One Where Rosita Dies,Stephen Prime,8.4,2819,"['Ellen Plummer', 'Sherry Bilsing', 'Brian Buckner', 'Sebastian Jones']",0.058823529411764705,0.0,0.0,0.0,0.29411764705882354,0.47058823529411764,0.17647058823529413,0.0,0.0
-2001,7,14,The One Where They All Turn Thirty,Ben Weiss,8.6,2976,"['Ellen Plummer', 'Vanessa McCarthy', 'Sherry Bilsing']",0.0,0.0,0.0,0.0,0.0,0.23076923076923078,0.0,0.7692307692307693,0.0
-2001,7,15,The One with Joey's New Brain,Kevin Bright,8.4,2896,"['Ellen Plummer', 'Sherry Bilsing', 'Andrew Reich', 'Ted Cohen']",0.21428571428571427,0.0,0.0,0.0,0.2857142857142857,0.5,0.0,0.0,0.0
-2001,7,16,The One with the Truth About London,David Schwimmer,8.7,2961,"['Zachary Rosenblatt', 'Brian Buckner', 'Sebastian Jones']",0.35714285714285715,0.0,0.0,0.0,0.0,0.5,0.14285714285714285,0.0,0.0
-2001,7,17,The One with the Cheap Wedding Dress,Kevin Bright,8.4,2758,"['Andrew Reich', 'Brian Buckner', 'Sebastian Jones', 'Ted Cohen']",0.23076923076923078,0.38461538461538464,0.0,0.0,0.0,0.38461538461538464,0.0,0.0,0.0
+2001,7,14,The One Where They All Turn Thirty,Ben Weiss,8.6,2976,"['Vanessa McCarthy', 'Sherry Bilsing', 'Ellen Plummer']",0.0,0.0,0.0,0.0,0.0,0.23076923076923078,0.0,0.7692307692307693,0.0
+2001,7,15,The One with Joey's New Brain,Kevin Bright,8.4,2896,"['Ellen Plummer', 'Ted Cohen', 'Andrew Reich', 'Sherry Bilsing']",0.21428571428571427,0.0,0.0,0.0,0.2857142857142857,0.5,0.0,0.0,0.0
+2001,7,16,The One with the Truth About London,David Schwimmer,8.7,2961,"['Brian Buckner', 'Sebastian Jones', 'Zachary Rosenblatt']",0.35714285714285715,0.0,0.0,0.0,0.0,0.5,0.14285714285714285,0.0,0.0
+2001,7,17,The One with the Cheap Wedding Dress,Kevin Bright,8.4,2758,"['Andrew Reich', 'Ted Cohen', 'Brian Buckner', 'Sebastian Jones']",0.23076923076923078,0.38461538461538464,0.0,0.0,0.0,0.38461538461538464,0.0,0.0,0.0
 2001,7,18,The One with Joey's Award,Gary Halvorson,8.4,2793,"['Ellen Plummer', 'Sherry Bilsing', 'Brian Boyle']",0.25,0.0,0.0,0.0,0.25,0.3125,0.0625,0.125,0.0
-2001,7,19,The One with Ross and Monica's Cousin,Gary Halvorson,8.7,3155,"['Andrew Reich', 'Ted Cohen']",0.11764705882352941,0.0,0.0,0.0,0.11764705882352941,0.7647058823529411,0.0,0.0,0.0
-2001,7,20,The One with Rachel's Big Kiss,Gary Halvorson,8.4,2894,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.18181818181818182,0.0,0.0,0.0,0.18181818181818182,0.45454545454545453,0.0,0.18181818181818182,0.0
+2001,7,19,The One with Ross and Monica's Cousin,Gary Halvorson,8.7,3155,"['Ted Cohen', 'Andrew Reich']",0.11764705882352941,0.0,0.0,0.0,0.11764705882352941,0.7647058823529411,0.0,0.0,0.0
+2001,7,20,The One with Rachel's Big Kiss,Gary Halvorson,8.4,2894,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.18181818181818182,0.0,0.0,0.0,0.18181818181818182,0.45454545454545453,0.0,0.18181818181818182,0.0
 2001,7,21,The One with the Vows,Gary Halvorson,7.5,2832,['Doty Abrams'],0.3333333333333333,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0
 2001,7,22,The One with Chandler's Dad,Kevin Bright,8.4,2822,"['Greg Malins', 'Brian Buckner', 'Sebastian Jones']",0.35714285714285715,0.07142857142857142,0.0,0.0,0.0,0.2857142857142857,0.0,0.07142857142857142,0.21428571428571427
 2001,7,23,The One with Monica and Chandler's Wedding: Part 1,Kevin Bright,8.9,3178,['Greg Malins'],0.15384615384615385,0.0,0.07692307692307693,0.0,0.23076923076923078,0.46153846153846156,0.0,0.07692307692307693,0.0
@@ -175,27 +176,27 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 2001,8,5,The One with Rachel's Date,Gary Halvorson,8.1,2703,"['Brian Buckner', 'Sebastian Jones']",0.1875,0.0625,0.0,0.0,0.375,0.25,0.125,0.0,0.0
 2001,8,6,The One with the Halloween Party,Gary Halvorson,8.5,2969,['Mark J. Kunerth'],0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.0,0.5,0.0,0.0,0.0
 2001,8,7,The One with the Stain,Kevin Bright,7.9,2766,"['R. Lee Fleming, Jr.']",0.125,0.0,0.0625,0.0,0.0,0.5625,0.25,0.0,0.0
-2001,8,8,The One with the Stripper,David Schwimmer,8.8,3082,"['Andrew Reich', 'Ted Cohen']",0.15384615384615385,0.0,0.0,0.0,0.0,0.6153846153846154,0.07692307692307693,0.15384615384615385,0.0
+2001,8,8,The One with the Stripper,David Schwimmer,8.8,3082,"['Ted Cohen', 'Andrew Reich']",0.15384615384615385,0.0,0.0,0.0,0.0,0.6153846153846154,0.07692307692307693,0.15384615384615385,0.0
 2001,8,9,The One with the Rumor,Gary Halvorson,9.3,5291,['Shana Goldberg-Meehan'],0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-2001,8,10,The One with Monica's Boots,Kevin Bright,8.1,2765,"['Robert Carlock', 'Brian Buckner', 'Sebastian Jones']",0.23076923076923078,0.15384615384615385,0.15384615384615385,0.0,0.07692307692307693,0.23076923076923078,0.15384615384615385,0.0,0.0
+2001,8,10,The One with Monica's Boots,Kevin Bright,8.1,2765,"['Brian Buckner', 'Sebastian Jones', 'Robert Carlock']",0.23076923076923078,0.15384615384615385,0.15384615384615385,0.0,0.07692307692307693,0.23076923076923078,0.15384615384615385,0.0,0.0
 2001,8,11,The One with Ross's Step Forward,Gary Halvorson,8.0,2636,['Robert Carlock'],0.2857142857142857,0.0,0.0,0.07142857142857142,0.14285714285714285,0.42857142857142855,0.0,0.07142857142857142,0.0
 2002,8,12,The One Where Joey Dates Rachel,David Schwimmer,8.5,2871,"['Ellen Plummer', 'Sherry Bilsing']",0.125,0.0,0.0,0.0,0.25,0.5,0.0,0.125,0.0
 2002,8,13,The One Where Chandler Takes a Bath,Ben Weiss,8.6,2800,['Vanessa McCarthy'],0.25,0.0,0.0,0.08333333333333333,0.0,0.6666666666666666,0.0,0.0,0.0
 2002,8,14,The One with the Secret Closet,Kevin Bright,8.2,2654,"['Brian Buckner', 'Sebastian Jones']",0.15384615384615385,0.0,0.07692307692307693,0.07692307692307693,0.0,0.6923076923076923,0.0,0.0,0.0
 2002,8,15,The One with the Birthing Video,Kevin Bright,8.4,2643,['Dana Klein Borkow'],0.3076923076923077,0.0,0.0,0.0,0.0,0.6923076923076923,0.0,0.0,0.0
-2002,8,16,The One Where Joey Tells Rachel,Ben Weiss,8.3,2698,"['Andrew Reich', 'Ted Cohen']",0.4,0.0,0.0,0.0,0.0,0.4,0.0,0.2,0.0
-2002,8,17,The One with the Tea Leaves,Gary Halvorson,8.1,2674,"['Steven Rosenhaus', 'R. Lee Fleming, Jr.']",0.07142857142857142,0.14285714285714285,0.07142857142857142,0.0,0.14285714285714285,0.42857142857142855,0.07142857142857142,0.07142857142857142,0.0
+2002,8,16,The One Where Joey Tells Rachel,Ben Weiss,8.3,2698,"['Ted Cohen', 'Andrew Reich']",0.4,0.0,0.0,0.0,0.0,0.4,0.0,0.2,0.0
+2002,8,17,The One with the Tea Leaves,Gary Halvorson,8.1,2674,"['R. Lee Fleming, Jr.', 'Steven Rosenhaus']",0.07142857142857142,0.14285714285714285,0.07142857142857142,0.0,0.14285714285714285,0.42857142857142855,0.07142857142857142,0.07142857142857142,0.0
 2002,8,18,The One in Massapequa,Gary Halvorson,8.2,2699,"['Mark J. Kunerth', 'Peter Tibbals']",0.2857142857142857,0.0,0.0,0.0,0.0,0.2857142857142857,0.14285714285714285,0.2857142857142857,0.0
 2002,8,19,The One with Joey's Interview,Gary Halvorson,7.5,2804,['Doty Abrams'],0.16666666666666666,0.08333333333333333,0.08333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0,0.0
 2002,8,20,The One with the Baby Shower,Kevin Bright,8.2,2699,"['Ellen Plummer', 'Sherry Bilsing']",0.0,0.0,0.0,0.0,0.1,0.9,0.0,0.0,0.0
-2002,8,21,The One with the Cooking Class,Gary Halvorson,8.2,2690,"['Brian Buckner', 'Sebastian Jones', 'Dana Klein Borkow']",0.14285714285714285,0.07142857142857142,0.0,0.0,0.21428571428571427,0.42857142857142855,0.0,0.14285714285714285,0.0
+2002,8,21,The One with the Cooking Class,Gary Halvorson,8.2,2690,"['Dana Klein Borkow', 'Brian Buckner', 'Sebastian Jones']",0.14285714285714285,0.07142857142857142,0.0,0.0,0.21428571428571427,0.42857142857142855,0.0,0.14285714285714285,0.0
 2002,8,22,The One Where Rachel Is Late,Gary Halvorson,8.3,2662,['Shana Goldberg-Meehan'],0.25,0.0,0.0,0.08333333333333333,0.16666666666666666,0.4166666666666667,0.0,0.08333333333333333,0.0
 2002,8,23,The One Where Rachel Has a Baby: Part 1,Kevin Bright,8.8,2906,['Scott Silveri'],0.0,0.0625,0.0625,0.75,0.0,0.0625,0.0625,0.0,0.0
 2002,8,24,The One Where Rachel Has a Baby: Part 2,Kevin Bright,8.9,3150,"['David Crane', 'Marta Kauffman']",0.0,0.08333333333333333,0.0,0.6666666666666666,0.0,0.08333333333333333,0.16666666666666666,0.0,0.0
 2002,9,1,The One Where No One Proposes,Kevin Bright,8.6,2939,"['Ellen Plummer', 'Sherry Bilsing']",0.0,0.0,0.2727272727272727,0.18181818181818182,0.0,0.5454545454545454,0.0,0.0,0.0
 2002,9,2,The One Where Emma Cries,Sheldon Epps,8.5,2957,['Dana Klein Borkow'],0.15384615384615385,0.0,0.0,0.15384615384615385,0.23076923076923078,0.46153846153846156,0.0,0.0,0.0
 2002,9,3,The One with the Pediatrician,Roger Christiansen,8.2,2733,"['Brian Buckner', 'Sebastian Jones']",0.1875,0.0,0.0,0.125,0.0,0.5,0.0,0.125,0.0625
-2002,9,4,The One with the Sharks,Ben Weiss,8.2,2764,"['Andrew Reich', 'Ted Cohen']",0.25,0.0,0.0,0.0,0.0,0.5,0.25,0.0,0.0
+2002,9,4,The One with the Sharks,Ben Weiss,8.2,2764,"['Ted Cohen', 'Andrew Reich']",0.25,0.0,0.0,0.0,0.0,0.5,0.25,0.0,0.0
 2002,9,5,The One with Phoebe's Birthday Dinner,David Schwimmer,8.5,2799,['Scott Silveri'],0.08333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.25,0.0
 2002,9,6,The One with the Male Nanny,Kevin Bright,8.4,2961,"['David Crane', 'Marta Kauffman']",0.05263157894736842,0.0,0.10526315789473684,0.0,0.0,0.7894736842105263,0.05263157894736842,0.0,0.0
 2002,9,7,The One with Ross's Inappropriate Song,Gary Halvorson,8.7,2971,['Robert Carlock'],0.07692307692307693,0.0,0.0,0.0,0.0,0.5384615384615384,0.38461538461538464,0.0,0.0
@@ -203,20 +204,20 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 2002,9,9,The One with Rachel's Phone Number,Ben Weiss,8.2,2702,['Mark J. Kunerth'],0.07692307692307693,0.0,0.07692307692307693,0.0,0.07692307692307693,0.6153846153846154,0.0,0.15384615384615385,0.0
 2002,9,10,The One with Christmas in Tulsa,Kevin Bright,7.5,2804,['Doty Abrams'],0.0625,0.0625,0.0,0.0625,0.0625,0.5,0.25,0.0,0.0
 2003,9,11,The One Where Rachel Goes Back to Work,Gary Halvorson,8.0,2601,"['Peter Tibbals', 'Judd Rubin']",0.11764705882352941,0.0,0.0,0.0,0.5294117647058824,0.35294117647058826,0.0,0.0,0.0
-2003,9,12,The One with Phoebe's Rats,Ben Weiss,8.0,2688,"['Brian Buckner', 'Sebastian Jones', 'Dana Klein Borkow']",0.0,0.0,0.08333333333333333,0.0,0.16666666666666666,0.3333333333333333,0.08333333333333333,0.3333333333333333,0.0
+2003,9,12,The One with Phoebe's Rats,Ben Weiss,8.0,2688,"['Dana Klein Borkow', 'Brian Buckner', 'Sebastian Jones']",0.0,0.0,0.08333333333333333,0.0,0.16666666666666666,0.3333333333333333,0.08333333333333333,0.3333333333333333,0.0
 2003,9,13,The One Where Monica Sings,Gary Halvorson,8.2,2685,"['Ellen Plummer', 'Sherry Bilsing']",0.2,0.06666666666666667,0.0,0.0,0.0,0.4666666666666667,0.0,0.26666666666666666,0.0
 2003,9,14,The One with the Blind Dates,Gary Halvorson,8.2,2642,"['Ellen Plummer', 'Sherry Bilsing']",0.26666666666666666,0.0,0.0,0.0,0.0,0.4666666666666667,0.0,0.26666666666666666,0.0
 2003,9,15,The One with the Mugging,Gary Halvorson,8.3,2670,['Peter Tibbals'],0.2857142857142857,0.07142857142857142,0.0,0.0,0.35714285714285715,0.2857142857142857,0.0,0.0,0.0
 2003,9,16,The One with the Boob Job,Gary Halvorson,8.2,2588,['Mark J. Kunerth'],0.15384615384615385,0.0,0.0,0.0,0.0,0.8461538461538461,0.0,0.0,0.0
-2003,9,17,The One with the Memorial Service,Gary Halvorson,8.5,2713,"['Robert Carlock', 'Brian Buckner', 'Sebastian Jones']",0.07692307692307693,0.0,0.0,0.0,0.0,0.9230769230769231,0.0,0.0,0.0
+2003,9,17,The One with the Memorial Service,Gary Halvorson,8.5,2713,"['Brian Buckner', 'Sebastian Jones', 'Robert Carlock']",0.07692307692307693,0.0,0.0,0.0,0.0,0.9230769230769231,0.0,0.0,0.0
 2003,9,18,The One with the Lottery,Gary Halvorson,8.6,2792,"['Ellen Plummer', 'Sherry Bilsing', 'Brian Buckner', 'Sebastian Jones']",0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
-2003,9,19,The One with Rachel's Dream,Terry Hughes,8.1,2616,"['Dana Klein Borkow', 'Mark J. Kunerth']",0.14285714285714285,0.0,0.07142857142857142,0.0,0.21428571428571427,0.35714285714285715,0.14285714285714285,0.07142857142857142,0.0
-2003,9,20,The One with the Soap Opera Party,Sheldon Epps,8.2,2615,"['Andrew Reich', 'Shana Goldberg-Meehan', 'Ted Cohen']",0.07692307692307693,0.0,0.07692307692307693,0.0,0.0,0.5384615384615384,0.0,0.3076923076923077,0.0
-2003,9,21,The One with the Fertility Test,Gary Halvorson,8.2,2557,"['Robert Carlock', 'Scott Silveri']",0.21428571428571427,0.0,0.0,0.14285714285714285,0.0,0.35714285714285715,0.0,0.2857142857142857,0.0
-2003,9,22,The One with the Donor,Ben Weiss,7.8,2635,"['Andrew Reich', 'Ted Cohen']",0.2857142857142857,0.21428571428571427,0.0,0.07142857142857142,0.21428571428571427,0.21428571428571427,0.0,0.0,0.0
-2003,9,23,The One in Barbados,Kevin Bright,8.5,2705,"['Scott Silveri', 'Shana Goldberg-Meehan']",0.3333333333333333,0.0,0.08333333333333333,0.0,0.0,0.0,0.5,0.08333333333333333,0.0
+2003,9,19,The One with Rachel's Dream,Terry Hughes,8.1,2616,"['Mark J. Kunerth', 'Dana Klein Borkow']",0.14285714285714285,0.0,0.07142857142857142,0.0,0.21428571428571427,0.35714285714285715,0.14285714285714285,0.07142857142857142,0.0
+2003,9,20,The One with the Soap Opera Party,Sheldon Epps,8.2,2615,"['Shana Goldberg-Meehan', 'Ted Cohen', 'Andrew Reich']",0.07692307692307693,0.0,0.07692307692307693,0.0,0.0,0.5384615384615384,0.0,0.3076923076923077,0.0
+2003,9,21,The One with the Fertility Test,Gary Halvorson,8.2,2557,"['Scott Silveri', 'Robert Carlock']",0.21428571428571427,0.0,0.0,0.14285714285714285,0.0,0.35714285714285715,0.0,0.2857142857142857,0.0
+2003,9,22,The One with the Donor,Ben Weiss,7.8,2635,"['Ted Cohen', 'Andrew Reich']",0.2857142857142857,0.21428571428571427,0.0,0.07142857142857142,0.21428571428571427,0.21428571428571427,0.0,0.0,0.0
+2003,9,23,The One in Barbados,Kevin Bright,8.5,2705,"['Shana Goldberg-Meehan', 'Scott Silveri']",0.3333333333333333,0.0,0.08333333333333333,0.0,0.0,0.0,0.5,0.08333333333333333,0.0
 2003,9,24,The One in Barbados,Kevin Bright,8.6,2844,"['David Crane', 'Marta Kauffman']",0.0,0.0,0.07692307692307693,0.0,0.07692307692307693,0.07692307692307693,0.5384615384615384,0.23076923076923078,0.0
-2003,10,1,The One After Joey and Rachel Kiss,Kevin Bright,8.5,3113,"['Andrew Reich', 'Ted Cohen']",0.0,0.0,0.0,0.0,0.0,0.5,0.4,0.0,0.1
+2003,10,1,The One After Joey and Rachel Kiss,Kevin Bright,8.5,3113,"['Ted Cohen', 'Andrew Reich']",0.0,0.0,0.0,0.0,0.0,0.5,0.4,0.0,0.1
 2003,10,2,The One Where Ross Is Fine,Ben Weiss,8.8,3366,"['Ellen Plummer', 'Sherry Bilsing']",0.3333333333333333,0.0,0.08333333333333333,0.0,0.0,0.4166666666666667,0.16666666666666666,0.0,0.0
 2003,10,3,The One with Ross's Tan,Gary Halvorson,8.8,3277,['Brian Buckner'],0.09090909090909091,0.09090909090909091,0.09090909090909091,0.0,0.0,0.6363636363636364,0.0,0.09090909090909091,0.0
 2003,10,4,The One with the Cake,Gary Halvorson,8.3,2825,['Dana Klein Borkow'],0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0
@@ -227,10 +228,10 @@ year,season,episode,title,director,stars,Votes,writers,Central Perk,City spaces,
 2004,10,9,The One with the Birth Mother,David Schwimmer,8.6,2860,['Scott Silveri'],0.35714285714285715,0.07142857142857142,0.07142857142857142,0.0,0.0,0.07142857142857142,0.2857142857142857,0.14285714285714285,0.0
 2004,10,10,The One Where Chandler Gets Caught,Gary Halvorson,8.0,2748,['Doty Abrams'],0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
 2004,10,11,The One Where the Stripper Cries,Kevin Bright,9.0,3684,"['David Crane', 'Marta Kauffman']",0.07692307692307693,0.0,0.0,0.0,0.23076923076923078,0.3076923076923077,0.0,0.38461538461538464,0.0
-2004,10,12,The One with Phoebe's Wedding,Kevin Bright,8.9,3161,"['Robert Carlock', 'Dana Klein Borkow']",0.25,0.08333333333333333,0.08333333333333333,0.0,0.0,0.4166666666666667,0.0,0.16666666666666666,0.0
+2004,10,12,The One with Phoebe's Wedding,Kevin Bright,8.9,3161,"['Dana Klein Borkow', 'Robert Carlock']",0.25,0.08333333333333333,0.08333333333333333,0.0,0.0,0.4166666666666667,0.0,0.16666666666666666,0.0
 2004,10,13,The One Where Joey Speaks French,Gary Halvorson,8.5,3044,"['Ellen Plummer', 'Sherry Bilsing']",0.15384615384615385,0.0,0.0,0.15384615384615385,0.07692307692307693,0.5384615384615384,0.07692307692307693,0.0,0.0
-2004,10,14,The One with Princess Consuela,Gary Halvorson,8.6,2989,"['Robert Carlock', 'Tracy Reilly']",0.3076923076923077,0.07692307692307693,0.0,0.0,0.07692307692307693,0.46153846153846156,0.0,0.07692307692307693,0.0
-2004,10,15,The One Where Estelle Dies,Gary Halvorson,8.5,2771,"['Andrew Reich', 'Ted Cohen']",0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.4166666666666667,0.16666666666666666,0.08333333333333333,0.0
-2004,10,16,The One with Rachel's Going Away Party,Gary Halvorson,8.9,3141,"['Andrew Reich', 'Ted Cohen']",0.0,0.0,0.0,0.0,0.0,0.8571428571428571,0.14285714285714285,0.0,0.0
+2004,10,14,The One with Princess Consuela,Gary Halvorson,8.6,2989,"['Tracy Reilly', 'Robert Carlock']",0.3076923076923077,0.07692307692307693,0.0,0.0,0.07692307692307693,0.46153846153846156,0.0,0.07692307692307693,0.0
+2004,10,15,The One Where Estelle Dies,Gary Halvorson,8.5,2771,"['Ted Cohen', 'Andrew Reich']",0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.4166666666666667,0.16666666666666666,0.08333333333333333,0.0
+2004,10,16,The One with Rachel's Going Away Party,Gary Halvorson,8.9,3141,"['Ted Cohen', 'Andrew Reich']",0.0,0.0,0.0,0.0,0.0,0.8571428571428571,0.14285714285714285,0.0,0.0
 2004,10,17,The Last One: Part 1,Kevin Bright,9.5,6221,"['David Crane', 'Marta Kauffman']",0.1111111111111111,0.0,0.0,0.4444444444444444,0.0,0.4444444444444444,0.0,0.0,0.0
 2004,10,18,The Last One: Part 2,Kevin Bright,9.7,10381,"['David Crane', 'Marta Kauffman']",0.0625,0.0,0.0,0.0,0.125,0.4375,0.0,0.0,0.375
