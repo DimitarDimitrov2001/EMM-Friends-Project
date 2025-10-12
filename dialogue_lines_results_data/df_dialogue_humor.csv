@@ -1665,6 +1665,7 @@ Bob Buttons?,0.0
 Oooh! You are a very bad man!,1.0
 You owe me a cat.,1.0
 "Here, kitty-kitty. Here kitty-kitty. Where did you go, little kitty-kitty-kitty? Here kitty-kitty-kitty-kitty...",1.0
+(something Italian),0.0
 Wow.,0.0
 Lucky sixes....,1.0
 "Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",1.0
@@ -1673,6 +1674,7 @@ And Joey....,1.0
 Hi!,0.0
 And Ross.,0.0
 Hi!,0.0
+(something in Italian),0.0
 He doesn't speak much English.,0.0
 Monopoly!,0.0
 Look at that!,0.0
@@ -1685,6 +1687,7 @@ Alright. I looked all over the building and I couldn't find the kitty anywhere.,
 "Oh, I found him. He was Paolo's cat.",1.0
 Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.,1.0
 "Ah, Paolo, this is Phoebe.",0.0
+"(something in Italian, he is apparently attracted to Phoebe)",0.0
 You betcha!,0.0
 "Ah, let's see. What next? Blow a bubble. A bubble's good. It's got a... boyish charm, it's impish. Here we go.",1.0
 "Nice going, imp. OK, it's OK. All I need to do is reach over and put it in my mouth.",1.0
@@ -1693,6 +1696,7 @@ Are you alright?,0.0
 "My God, you're choking!  That better?",1.0
 Yes... thank you. That was... that was....,1.0
 Perfection?,0.0
+(something romantic in Italian about Rachel and the stars),0.0
 "Blah blah blah, blah blah blah... blah blaaaaaah....",1.0
 Wha-What did he say that was so funny?,1.0
 I have absolutely no idea.,1.0
@@ -2231,6 +2235,8 @@ Woooo! Yeah!,1.0
 "Oh, oh, good.",1.0
 "Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!",0.0
 "Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year.",1.0
+(Sung),0.0
+(Sung),0.0
 "No. No, that's- that's okay.",1.0
 "Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!",1.0
 That guy's going home with a note!,1.0
@@ -5505,6 +5511,7 @@ There is no father.,0.0
 "Ok, that's ok. I'm fine. I'm... oh!",1.0
 "Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.",1.0
 Ok.,0.0
+(singing),0.0
 "Thanks, Ross.",0.0
 Yeah. I'm paying you to stop.,1.0
 Ok.,0.0
@@ -5848,6 +5855,7 @@ I don't know. Maybe I'll know when I see him.,1.0
 "Here, look, alright, does this help?",0.0
 "Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.",1.0
 "Rachel, I love you! Deal with me first!",0.0
+(something in Chinese),0.0
 Alright!,0.0
 Ni-chou chi-ma!,0.0
 "Ross! Excuse me, pardon me, excuse me....",1.0
@@ -8269,6 +8277,7 @@ So how did everything go?,1.0
 "Oh, great. Great. There was a projectile, uh, throwing up incident, but he started it.",1.0
 "Well, we've gotta go.",0.0
 Ok.,0.0
+[clears her throat],0.0
 "Oh, right. Um, I've got some news. It's about us.",1.0
 "Oh, you and me?",0.0
 "Uh, no, Susan and me.",1.0
@@ -9764,9 +9773,12 @@ Never call me from that phone.,1.0
 "Anyway, OK, now promise you won't like, freak out and say how great this is until I'm done, OK.",1.0
 OK.,0.0
 "OK. I just met this producer of this like, teeny record company, who said that I have a very fresh, offbeat sound and she wants to do a demo of Smelly Cat.",1.0
+[congradulating her and celebrating],0.0
 "I told you not to do that yet. And, she wants to do a video.",1.0
+[celebrating more],0.0
 "I'm not done yet, OK. God. OK, if that goes well, they may even want to make an album.",1.0
 I'm done now.,1.0
+[celebrating],0.0
 "Oh God. Ross, OK, if you care about me at all, you will get the pie out of the man's hood.",1.0
 Get the what?,0.0
 "Pie in the hood, pie in the hood. Go.",1.0
@@ -9864,6 +9876,7 @@ I can't believe he has a new roommate. Who is this guy?,1.0
 Hey.,0.0
 Hey.,0.0
 "Oh, check it out, oh check it out. It's Smelly Cat the video.",1.0
+[cheer],0.0
 "Now OK, I haven't seen it yet so, if you don't like it, well, so what, none of you ever made a video.  OK.",1.0
 Oh my God.,1.0
 I know.,1.0
@@ -15301,6 +15314,7 @@ Relax. It’s just Issac’s D.J.-ing at the Philly. You should come.,1.0
 We’ll be there.,0.0
 "Great. I’ll ah, see ya then.",1.0
 "All right, rock on.",0.0
+(something in Russian or Polish),0.0
 "He’s says, ‘Walking with you makes this strange city, feel like home.’",0.0
 "Me too. Although this city is my home, so. So that’s dumb what I said, don’t tell him I said that. Umm, you make something up.  Nice,  thank you. This is me. Here.",1.0
 Your eyes are very pretty.,0.0
@@ -19976,6 +19990,7 @@ All right. But if you weren’t my best friend.,1.0
 "I thought you were Chandler. But umm, one of who is over there.",1.0
 Oh.,0.0
 Hey Joe.,0.0
+(Something in Italian.) (Storms out.),0.0
 "I’ll be right with you. Okay?  Thanks, Wendy.",1.0
 Oh my God! How cute is the on-call doctor?,1.0
 "Ooh, so cute, that I’m thinking about jamming this pen in my eye.",1.0
@@ -20070,6 +20085,7 @@ What happened? What happened?!,1.0
 You kissed my girlfriend!,0.0
 "Ooh, I like those sunglasses.",1.0
 "Like ‘em, like ‘em? Or, I’d like to get store credit for that amount like ‘em?",1.0
+"(Swears in Italian, it’s the same term used by Joey earlier and Joey nods his approval.)",0.0
 "All right everybody, this turkey is ready!",0.0
 Where can I wash up?,0.0
 "Here, let me show you. Okay, the towels are hanging next to the sink, and umm, you can use the fancy soap.",1.0
@@ -24141,6 +24157,7 @@ Well you can split it with another credit card.,1.0
 "Ohh, okay, how about five.  Ohh, thank you.",1.0
 I’m just going to need to see your passport.,1.0
 "Okay, you know what? I don’t have it, but I can tell you exactly where it is on my night stand, and...okay. But you know what? I have my drivers license and I have a twenty.",1.0
+(Slides the twenty back and tosses her credit card onto the counter.),0.0
 "Look, face it, my father is not going to pay for the build-in barbecue and believe me you can kiss you gazebo goodbye. Now I might be able to get you the new lawn.",1.0
 "Ahh, then you have to give us the lawn ornaments.",1.0
 "I go back there with lawn ornaments, he’s going to laugh in my face.",1.0
@@ -28956,6 +28973,7 @@ That's not good.,1.0
 "No, smile! Not that face, smile! Everybody smile!",1.0
 "Joey, why don't you just tell her what happened? It's not your fault.",1.0
 "If we keep talking this way, aren't we gonna freak her out soon?",1.0
+(Something in Italian to Joey.),0.0
 "Soon, soon, I'm gonna be on soon. There I am!",0.0
 No! Sam Waterston!,0.0
 "No-no-no, that-that's me, that's me.",1.0
@@ -32129,6 +32147,7 @@ Ohhhh man,0.0
 "Sorry, there's just more room out here.",1.0
 "No-no-no-no-no, it's-it's uh, you just uh, uh reminded me that uh, I need to do my stretches too.",1.0
 Why don't you try to do-,0.0
+(jumps up and yells),0.0
 What's wrong?,1.0
 Uh-uh nothing. I-I-I-I didn't want you to touch me cause I'm -I'm all sweaty from the workout. I better hit the shower.  Oh my God!,1.0
 "Oh, sorry about that stuff hanging in there. It's just my thongs are too delicate for the dryer.",1.0
@@ -34588,6 +34607,7 @@ Chandler!,0.0
 "No, there were two.",0.0
 Including me?,0.0
 Oh yeah.,1.0
+(singing),0.0
 "Hey, remember when I had a monkey?",1.0
 Yeah.,1.0
 "Yeah, what, what was I thinking?",1.0
@@ -37207,6 +37227,7 @@ It’s all everybody at the party could talk about!,0.0
 "Monica, y’know what? The only reason I did that was because your party was so boring!",1.0
 We had a characturist!,0.0
 Oh!!,0.0
+"(singing, angrily)",0.0
 "Monica, your Sweet Sixteen was like a million years ago.",0.0
 "And yet, here we are doing it again.",0.0
 "Ugh, Monica I don’t want to steal your stupid thunder!",1.0
@@ -37248,6 +37269,7 @@ Thanks.,0.0
 "And uh, Rachel.",1.0
 Yeah.,1.0
 "What can I say, you missed your chance. From now on the only person who’s going to enjoy these bad boys  is me.",1.0
+(singing),0.0
 "Hey! Here’s a dollar, consider it a deposit. Please sing at our wedding.",0.0
 Oh thank you.,0.0
 Okay.,0.0
@@ -48011,6 +48033,7 @@ Hey!,0.0
 Shhh! We’re not talking.,1.0
 Oh. Finally! Oh.,1.0
 "So, according to your bio, you’ve done quite a bit of work before Days of Our Lives. Anything you’re particularly proud of?",0.0
+(He goes into a song and dance number),0.0
 "Folks, has this ever happened to you. You go to the refrigerator to get a nice glass of milk,  and these darn cartons are so flingin'-flangin' hard to open.",1.0
 "Oh, you said it Mike.  Aw! There's got to be a better way!",1.0
 And there is Kevin.,1.0
@@ -50100,12 +50123,14 @@ Here you are,0.0
 Thank you Joey. You know what? I'm not even sure I can have caffeine.,1.0
 I went thru this with Ben and Carol. One cup of coffee won't affect your milk.,1.0
 Yeah. Just to be sure I'm gonna call Dr. Wiener.,1.0
+(Laughs),0.0
 Every time?,0.0
 Uhuh.,0.0
 "Rach, you don't have to call whenever you have a little question, okay? Trust me, I know this.",1.0
 "All right, I trust you.",0.0
 "Rachel, I can see you dialing! I don't understand why...",1.0
 I'm on the phone!  Dr. Wiener?,1.0
+(Laughs),0.0
 It's so weird seeing Ross and Rachel with a baby. It's just so grown up.,1.0
 "I know, yeah. I feel like we're all growing up. Person named Wiener, God that kills me.",1.0
 Look at you all grown up.,0.0
@@ -50117,6 +50142,7 @@ Yeah!,0.0
 "Let's see!  Oh, you know who's great? Sandy Poophack.",1.0
 Poophack...,1.0
 "Yeah... All right, well that rules out Lana Titweiller",0.0
+(Laughs),0.0
 Hey!,0.0
 Hey!,0.0
 I've got good news!,0.0
@@ -50164,6 +50190,7 @@ Mike.,0.0
 Mike? Okay! What's his last name?,1.0
 Damnit! Is there no mystery left in romance anymore!?,1.0
 "All right, we'll se you and Mike at the restaurant in a couple hours.",0.0
+(Ad-lib good-byes) (Phoebe leaves),0.0
 Why did I have to say Mike? I don't know a Mike! Why couldn't I have said...  There's no guy in there!,1.0
 "It's impossible to find a good doctor. I mean, how do you know the good ones from the ones who are gonna push their penis against your knee?",1.0
 Excuse me?,0.0
@@ -50186,6 +50213,7 @@ Okay!,0.0
 I am Mike.,1.0
 Atta boy!,0.0
 "Okay, look...",1.0
+(Ad-lib hellos),0.0
 "Joey, this is Mary Ellen Jenkins. So, Mike, how do you and Joey know each other anyway?",1.0
 "How do I and Joey know each other? Wow, if I had a nickel for every time somebody has asked me that.",1.0
 From school.,0.0
@@ -50284,6 +50312,7 @@ Why did you go along with that?,1.0
 Prove it.,0.0
 There isn't a piano here.,1.0
 That wouldn't stand in the way of a true pianist.,0.0
+(Plays 'air piano'),0.0
 You are really good! I play a little guitar myself.,1.0
 Really?,1.0
 Uhuh.,0.0
@@ -50292,6 +50321,7 @@ That's great. What kind of music do you play?,1.0
 "Do you think that maybe, sometime, I could...",1.0
 "It's okay. Go ahead, ask me out.",1.0
 Okay. Do you think maybe sometime I could take you out?,1.0
+(Walks In),0.0
 "Oh, you just caught me off guard! Yeah, that would be nice.",1.0
 Look at this. My two best friends!,0.0
 "Excuse me, I don't mean to be a jerk, but the baby with the rash came in after me.",1.0
@@ -50589,6 +50619,7 @@ You don't need a shower.,1.0
 "Alright, the truth is, I soiled myself during some turbulences.",1.0
 What do I smell?  I smell smoke. Huh'did you smoke?,1.0
 "Yes, but I just had one. Two. Two tiny cigarettes. Okay, five. A pack. Two pack'a'a carton. Three big fat cartons in two days.  But it's over, I made a decision, I'm not gonna smoke anymore.",1.0
+(gets a pack out of his jacket),0.0
 "But, those are for you.",0.0
 "Alright, we'll just, uh, see when you get here. Bye.  Huh, that was my mom, she's stuck in terrible traffic.",1.0
 "Okay, well that's now the third sign that I should not leave Emma.",1.0
@@ -52182,6 +52213,7 @@ You could do that?,1.0
 "Oh, really?",1.0
 No it is awesome!,0.0
 Hi guys.,0.0
+(Adlib hellos),0.0
 "Wow! Hey, why are you all dressed up?",1.0
 Rachel and I are bringing Emma to Ralph Lauren today to introduce her to everyone. Doesn't she look cute?,1.0
 She sure does. Why does she have a pink bow taped to her head?,1.0
@@ -60592,6 +60624,7 @@ Are you kidding? Oh my God...,1.0
 I know what you mean. You're like a sister to me too.,1.0
 I wouldn't know what I'm gonna do without you...,1.0
 You're the best friend I ever had.,1.0
+(says something that cannot be understood),0.0
 What?,1.0
 I... I... I...,1.0
 That is so sweet.,1.0
