@@ -8,10 +8,6 @@ The datasets used are from Kaggle.
 accessible [here](https://www.kaggle.com/datasets/rezaghari/friends-series-dataset/data).
 
 ---
-## Installation Instructions
-
-
----
 ## File Descriptions
 This section details the use and purpose of each file in the repository.
 
