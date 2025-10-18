@@ -1,0 +1,73 @@
+IF Central Perk > 0.05366357069143439 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=102, target_stat=8.2824, target_stat_comparison=8.5933, score=0.3075
+
+
+IF Central Perk > 0.05366357069143439 AND emotion_anger <= 0.07928996565752607 AND emotion_disgust > 0.03558859298178982 -> coverage=106, target_stat=8.2962, target_stat_comparison=8.5915, score=0.2935
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=80, target_stat=8.2538, target_stat_comparison=8.5641, score=0.2906
+
+
+IF Central Perk > 0.05366357069143439 AND Hallways <= 0.0769230769230769 AND avg_words_per_line > 9.118298996014051 -> coverage=141, target_stat=8.3404, target_stat_comparison=8.6347, score=0.2876
+
+
+IF Central Perk > 0.05366357069143439 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_PHOEBE <= 13.0 -> coverage=116, target_stat=8.3138, target_stat_comparison=8.5992, score=0.2853
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.09343565798345005 AND exchanges_JOEY_PHOEBE <= 16.0 -> coverage=106, target_stat=8.3009, target_stat_comparison=8.5877, score=0.2850
+
+
+IF Central Perk > 0.05366357069143439 AND emotion_anger <= 0.07928996565752607 AND exchanges_CHANDLER_JOEY <= 31.66666666666663 -> coverage=113, target_stat=8.3124, target_stat_comparison=8.5935, score=0.2808
+
+
+IF Central Perk > 0.05366357069143439 AND avg_words_per_line > 9.118298996014051 AND emotion_anger <= 0.09343565798345005 -> coverage=138, target_stat=8.3406, target_stat_comparison=8.6255, score=0.2800
+
+
+IF Central Perk > 0.05366357069143439 AND Hallways <= 0.0769230769230769 AND exchanges_CHANDLER_JOEY <= 31.66666666666663 -> coverage=137, target_stat=8.3409, target_stat_comparison=8.6222, score=0.2769
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 -> coverage=104, target_stat=8.3029, target_stat_comparison=8.5818, score=0.2766
+
+
+IF Central Perk > 0.05366357069143439 AND avg_words_per_line > 9.118298996014051 AND emotion_anger <= 0.07928996565752607 -> coverage=109, target_stat=8.3101, target_stat_comparison=8.5866, score=0.2756
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.09343565798345005 -> coverage=128, target_stat=8.3328, target_stat_comparison=8.6083, score=0.2743
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=56, target_stat=8.2054, target_stat_comparison=8.5378, score=0.2738
+
+
+IF Central Perk > 0.05366357069143439 AND avg_words_per_line > 9.118298996014051 AND emotion_disgust > 0.03558859298178982 -> coverage=141, target_stat=8.3461, target_stat_comparison=8.6263, score=0.2738
+
+
+IF Central Perk > 0.1176470588235294 AND Main apartments <= 0.6666666666666666 AND emotion_anger <= 0.07928996565752607 -> coverage=96, target_stat=8.2938, target_stat_comparison=8.5721, score=0.2725
+
+
+IF Central Perk > 0.05366357069143439 AND Main apartments <= 0.6666666666666666 AND emotion_anger <= 0.09343565798345005 -> coverage=149, target_stat=8.3544, target_stat_comparison=8.6379, score=0.2717
+
+
+IF Central Perk > 0.05366357069143439 AND emotion_anger <= 0.09343565798345005 AND emotion_disgust > 0.03558859298178982 -> coverage=134, target_stat=8.3403, target_stat_comparison=8.6147, score=0.2714
+
+
+IF Central Perk > 0.05366357069143439 AND Hallways <= 0.0769230769230769 -> coverage=166, target_stat=8.3693, target_stat_comparison=8.6714, score=0.2711
+
+
+IF Central Perk > 0.1176470588235294 AND Other lodging <= 0.1666666666666666 AND emotion_anger <= 0.09343565798345005 -> coverage=111, target_stat=8.3153, target_stat_comparison=8.5864, score=0.2705
+
+
+IF Central Perk > 0.05366357069143439 AND Hallways <= 0.0769230769230769 AND emotion_anger <= 0.07928996565752607 -> coverage=118, target_stat=8.3237, target_stat_comparison=8.5941, score=0.2703
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND emotion_disgust > 0.03558859298178982 -> coverage=86, target_stat=8.2791, target_stat_comparison=8.5620, score=0.2703
+
+
+IF Central Perk > 0.1176470588235294 AND Hallways <= 0.0769230769230769 AND emotion_anger <= 0.07928996565752607 -> coverage=92, target_stat=8.2891, target_stat_comparison=8.5674, score=0.2700
+
+
+IF Central Perk > 0.1176470588235294 AND Hallways <= 0.0769230769230769 AND Other lodging <= 0.1666666666666666 -> coverage=112, target_stat=8.3170, target_stat_comparison=8.5871, score=0.2697
+
+
+IF Central Perk > 0.1176470588235294 AND Hallways <= 0.0769230769230769 AND emotion_anger <= 0.09343565798345005 -> coverage=110, target_stat=8.3145, target_stat_comparison=8.5849, score=0.2696
+
+
+IF Central Perk > 0.05366357069143439 AND emotion_anger <= 0.07928996565752607 -> coverage=132, target_stat=8.3394, target_stat_comparison=8.6106, score=0.2689

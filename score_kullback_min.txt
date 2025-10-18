@@ -1,0 +1,73 @@
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_CHANDLER_JOEY <= 31.66666666666663 -> coverage=66, target_stat=8.2409, target_stat_comparison=8.5435, score=0.2990
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=80, target_stat=8.2538, target_stat_comparison=8.5641, score=0.2975
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=56, target_stat=8.2054, target_stat_comparison=8.5378, score=0.2956
+
+
+IF Central Perk > 0.1666666666666666 AND Hallways <= 0.0769230769230769 AND emotion_anger <= 0.07928996565752607 -> coverage=66, target_stat=8.2470, target_stat_comparison=8.5412, score=0.2907
+
+
+IF Central Perk > 0.1666666666666666 AND Hallways <= 0.0 AND exchanges_CHANDLER_JOEY <= 31.66666666666663 -> coverage=68, target_stat=8.2529, target_stat_comparison=8.5423, score=0.2882
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND exchanges_MONICA_PHOEBE <= 13.666666666666629 -> coverage=71, target_stat=8.2592, target_stat_comparison=8.5448, score=0.2857
+
+
+IF Central Perk > 0.1666666666666666 AND Hallways <= 0.0 AND sentiment_trajectory_slope > -0.11743395342576539 -> coverage=70, target_stat=8.2600, target_stat_comparison=8.5428, score=0.2827
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_PHOEBE <= 13.0 -> coverage=69, target_stat=8.2594, target_stat_comparison=8.5413, score=0.2814
+
+
+IF Central Perk > 0.05366357069143439 AND exchanges_MONICA_CHANDLER <= 13.0 AND vocab_richness > 0.3864902769859285 -> coverage=65, target_stat=8.2538, target_stat_comparison=8.5368, score=0.2781
+
+
+IF Central Perk > 0.1666666666666666 AND Main apartments <= 0.6666666666666666 AND emotion_anger <= 0.07928996565752607 -> coverage=71, target_stat=8.2648, target_stat_comparison=8.5424, score=0.2776
+
+
+IF Central Perk > 0.1666666666666666 AND Hallways <= 0.0769230769230769 AND exchanges_CHANDLER_JOEY <= 31.66666666666663 -> coverage=76, target_stat=8.2684, target_stat_comparison=8.5494, score=0.2771
+
+
+IF Central Perk > 0.1666666666666666 AND Hallways <= 0.0 AND Main apartments <= 0.5333333333333333 -> coverage=64, target_stat=8.2531, target_stat_comparison=8.5355, score=0.2756
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.09343565798345005 AND exchanges_ROSS_JOEY > 2.0 -> coverage=69, target_stat=8.2638, target_stat_comparison=8.5395, score=0.2753
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND vocab_richness > 0.36813068736421173 -> coverage=61, target_stat=8.2443, target_stat_comparison=8.5337, score=0.2751
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.17635569852941174 AND emotion_anger <= 0.07928996565752607 -> coverage=63, target_stat=8.2508, target_stat_comparison=8.5347, score=0.2750
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_JOEY_PHOEBE > 1.0 -> coverage=62, target_stat=8.2484, target_stat_comparison=8.5339, score=0.2741
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND emotion_neutral <= 0.5542242769704696 -> coverage=73, target_stat=8.2699, target_stat_comparison=8.5436, score=0.2730
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND exchanges_MONICA_JOEY > 2.0 -> coverage=70, target_stat=8.2671, target_stat_comparison=8.5398, score=0.2725
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_JOEY_PHOEBE <= 16.0 -> coverage=62, target_stat=8.2500, target_stat_comparison=8.5333, score=0.2720
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND sentiment_trajectory_slope > -0.11743395342576539 -> coverage=65, target_stat=8.2585, target_stat_comparison=8.5351, score=0.2718
+
+
+IF Central Perk > 0.1666666666666666 AND Hallways <= 0.0 AND emotion_anger <= 0.07928996565752607 -> coverage=60, target_stat=8.2433, target_stat_comparison=8.5324, score=0.2717
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND emotion_surprise > 0.15682643052378903 -> coverage=59, target_stat=8.2407, target_stat_comparison=8.5316, score=0.2702
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_RACHEL_PHOEBE > 2.0 -> coverage=62, target_stat=8.2516, target_stat_comparison=8.5328, score=0.2699
+
+
+IF Central Perk > 0.1176470588235294 AND emotion_anger <= 0.07928996565752607 AND emotion_joy > 0.11352088232925764 -> coverage=75, target_stat=8.2733, target_stat_comparison=8.5453, score=0.2696
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 -> coverage=75, target_stat=8.2733, target_stat_comparison=8.5453, score=0.2696

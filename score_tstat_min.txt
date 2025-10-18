@@ -1,0 +1,73 @@
+IF exchanges_CHANDLER_JOEY <= 31.66666666666663 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=18, target_stat=8.1000, target_stat_comparison=8.4885, score=10.7280
+
+
+IF Main apartments <= 0.4666666666666667 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=15, target_stat=8.0867, target_stat_comparison=8.4842, score=10.4047
+
+
+IF exchanges_CHANDLER_JOEY <= 18.66666666666663 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=16, target_stat=8.1188, target_stat_comparison=8.4836, score=10.3598
+
+
+IF Main apartments <= 0.5333333333333333 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=19, target_stat=8.1263, target_stat_comparison=8.4880, score=9.0416
+
+
+IF Main apartments <= 0.4666666666666667 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 4.0 -> coverage=18, target_stat=8.1222, target_stat_comparison=8.4867, score=8.4204
+
+
+IF Central Perk > 0.2307692307692307 AND character_lines_JOEY <= 0.14921023965141605 AND vocab_richness > 0.3864902769859285 -> coverage=20, target_stat=8.1450, target_stat_comparison=8.4880, score=8.2868
+
+
+IF character_lines_OTHER > 0.12082435344827586 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 11.0 -> coverage=17, target_stat=8.1471, target_stat_comparison=8.4831, score=8.1627
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.1291512915129151 AND vocab_richness > 0.3864902769859285 -> coverage=28, target_stat=8.1036, target_stat_comparison=8.5067, score=8.1185
+
+
+IF character_lines_OTHER > 0.12082435344827586 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=23, target_stat=8.1522, target_stat_comparison=8.4920, score=8.0656
+
+
+IF Central Perk > 0.1666666666666666 AND avg_words_per_line > 10.535767234093926 AND vocab_richness > 0.3864902769859285 -> coverage=15, target_stat=8.1200, target_stat_comparison=8.4819, score=7.9584
+
+
+IF Central Perk > 0.2307692307692307 AND character_lines_JOEY <= 0.1291512915129151 AND vocab_richness > 0.3864902769859285 -> coverage=17, target_stat=8.1353, target_stat_comparison=8.4840, score=7.8538
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_MONICA > 0.15588067444876783 AND exchanges_RACHEL_ROSS <= 12.0 -> coverage=22, target_stat=8.1136, target_stat_comparison=8.4944, score=7.7927
+
+
+IF Main apartments <= 0.5333333333333333 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 11.0 -> coverage=15, target_stat=8.1400, target_stat_comparison=8.4805, score=7.7327
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_joy <= 0.21446165393204034 AND exchanges_MONICA_RACHEL > 23.0 -> coverage=15, target_stat=8.1667, target_stat_comparison=8.4787, score=7.6879
+
+
+IF Central Perk > 0.1666666666666666 AND avg_words_per_line > 10.535767234093926 AND exchanges_RACHEL_CHANDLER <= 4.0 -> coverage=22, target_stat=8.1591, target_stat_comparison=8.4897, score=7.5766
+
+
+IF Central Perk > 0.2307692307692307 AND character_lines_JOEY <= 0.14921023965141605 AND exchanges_RACHEL_ROSS <= 12.0 -> coverage=20, target_stat=8.1500, target_stat_comparison=8.4875, score=7.4929
+
+
+IF emotion_joy <= 0.14428369810648276 AND exchanges_MONICA_ROSS > 9.0 AND exchanges_RACHEL_JOEY > 3.0 -> coverage=15, target_stat=8.1667, target_stat_comparison=8.4787, score=7.4758
+
+
+IF Jobs > 0.2307692307692307 AND emotion_surprise <= 0.1835716614841136 AND sentiment_neu <= 0.8080949199167747 -> coverage=15, target_stat=8.1600, target_stat_comparison=8.4792, score=7.4235
+
+
+IF emotion_surprise <= 0.19901233155528147 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=25, target_stat=8.1760, target_stat_comparison=8.4924, score=7.2406
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=56, target_stat=8.2054, target_stat_comparison=8.5378, score=7.2141
+
+
+IF Central Perk > 0.2307692307692307 AND character_lines_OTHER > 0.12082435344827586 AND vocab_richness > 0.3974609859400576 -> coverage=15, target_stat=8.1467, target_stat_comparison=8.4801, score=7.2129
+
+
+IF character_lines_JOEY <= 0.14921023965141605 AND exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=18, target_stat=8.1333, target_stat_comparison=8.4858, score=7.1572
+
+
+IF avg_words_per_line > 10.535767234093926 AND character_lines_CHANDLER <= 0.12053264834684568 AND exchanges_ROSS_PHOEBE > 2.0 -> coverage=19, target_stat=8.1579, target_stat_comparison=8.4853, score=7.1417
+
+
+IF exchanges_MONICA_CHANDLER <= 4.0 AND exchanges_RACHEL_PHOEBE <= 20.833333333333314 AND exchanges_ROSS_CHANDLER > 7.0 -> coverage=23, target_stat=8.1652, target_stat_comparison=8.4906, score=7.1308
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_MONICA > 0.13826086956521735 AND humor > 0.6716174031801776 -> coverage=21, target_stat=8.1810, target_stat_comparison=8.4860, score=7.1304

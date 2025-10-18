@@ -1,0 +1,73 @@
+IF Central Perk <= 0.1176470588235294 AND Jobs <= 0.0 AND emotion_joy > 0.11352088232925764 -> coverage=44, target_stat=8.7932, target_stat_comparison=8.3823, score=0.3045
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_ROSS > 0.10338481162589404 AND emotion_disgust <= 0.053389852674700124 -> coverage=49, target_stat=8.7653, target_stat_comparison=8.3786, score=0.3008
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_ROSS > 0.10338481162589404 AND exchanges_MONICA_CHANDLER > 4.0 -> coverage=54, target_stat=8.7389, target_stat_comparison=8.3758, score=0.2946
+
+
+IF Central Perk <= 0.1176470588235294 AND avg_words_per_line <= 10.227081021087681 AND character_lines_ROSS > 0.10338481162589404 -> coverage=41, target_stat=8.7976, target_stat_comparison=8.3877, score=0.2938
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_ROSS > 0.10338481162589404 AND emotion_disgust <= 0.06069374284053404 -> coverage=56, target_stat=8.7304, target_stat_comparison=8.3744, score=0.2932
+
+
+IF Central Perk <= 0.1176470588235294 AND avg_words_per_line <= 10.535767234093926 AND character_lines_ROSS > 0.10338481162589404 -> coverage=50, target_stat=8.7520, target_stat_comparison=8.3801, score=0.2919
+
+
+IF Central Perk <= 0.1176470588235294 AND Jobs <= 0.0 AND exchanges_MONICA_CHANDLER > 4.0 -> coverage=46, target_stat=8.7696, target_stat_comparison=8.3837, score=0.2918
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_RACHEL > 0.1062000929257566 AND exchanges_MONICA_CHANDLER > 4.0 -> coverage=56, target_stat=8.7286, target_stat_comparison=8.3750, score=0.2913
+
+
+IF Central Perk <= 0.1176470588235294 AND Jobs <= 0.0 AND emotion_anger > 0.04208676309499123 -> coverage=43, target_stat=8.7837, target_stat_comparison=8.3865, score=0.2912
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_JOEY <= 0.17635569852941174 AND character_lines_ROSS > 0.10338481162589404 -> coverage=55, target_stat=8.7309, target_stat_comparison=8.3762, score=0.2900
+
+
+IF Central Perk <= 0.1666666666666666 AND emotion_disgust <= 0.053389852674700124 AND exchanges_MONICA_CHANDLER > 4.0 -> coverage=68, target_stat=8.6912, target_stat_comparison=8.3649, score=0.2898
+
+
+IF Central Perk <= 0.1666666666666666 AND emotion_disgust <= 0.053389852674700124 AND exchanges_MONICA_RACHEL > 2.0 -> coverage=63, target_stat=8.7048, target_stat_comparison=8.3694, score=0.2896
+
+
+IF Central Perk <= 0.1176470588235294 AND avg_words_per_line <= 10.535767234093926 AND exchanges_MONICA_CHANDLER > 4.0 -> coverage=49, target_stat=8.7531, target_stat_comparison=8.3818, score=0.2888
+
+
+IF Central Perk <= 0.1176470588235294 AND emotion_disgust <= 0.06069374284053404 AND exchanges_RACHEL_ROSS > 12.0 -> coverage=39, target_stat=8.8026, target_stat_comparison=8.3909, score=0.2882
+
+
+IF Central Perk <= 0.1176470588235294 AND Jobs <= 0.2307692307692307 AND exchanges_RACHEL_ROSS > 12.0 -> coverage=39, target_stat=8.8026, target_stat_comparison=8.3909, score=0.2882
+
+
+IF Central Perk <= 0.1176470588235294 AND avg_words_per_line <= 10.535767234093926 AND exchanges_RACHEL_CHANDLER <= 10.0 -> coverage=50, target_stat=8.7480, target_stat_comparison=8.3812, score=0.2879
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_OTHER <= 0.15568986413216815 AND exchanges_RACHEL_CHANDLER <= 4.0 -> coverage=26, target_stat=8.9077, target_stat_comparison=8.4033, score=0.2876
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_RACHEL > 0.1062000929257566 AND exchanges_RACHEL_ROSS > 12.0 -> coverage=41, target_stat=8.7902, target_stat_comparison=8.3892, score=0.2875
+
+
+IF Central Perk <= 0.05366357069143439 AND emotion_joy > 0.11352088232925764 AND exchanges_MONICA_CHANDLER > 4.0 -> coverage=32, target_stat=8.8500, target_stat_comparison=8.3975, score=0.2872
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_ROSS > 0.10338481162589404 AND exchanges_JOEY_PHOEBE <= 16.0 -> coverage=54, target_stat=8.7315, target_stat_comparison=8.3780, score=0.2868
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_OTHER <= 0.15568986413216815 AND character_lines_RACHEL > 0.1062000929257566 -> coverage=40, target_stat=8.7950, target_stat_comparison=8.3903, score=0.2867
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_OTHER <= 0.19171680962744844 AND exchanges_RACHEL_ROSS > 12.0 -> coverage=36, target_stat=8.8194, target_stat_comparison=8.3940, score=0.2864
+
+
+IF Central Perk <= 0.1176470588235294 AND avg_words_per_line <= 10.227081021087681 AND exchanges_RACHEL_CHANDLER <= 10.0 -> coverage=42, target_stat=8.7833, target_stat_comparison=8.3887, score=0.2862
+
+
+IF Central Perk <= 0.1176470588235294 AND exchanges_MONICA_CHANDLER > 4.0 AND exchanges_RACHEL_CHANDLER <= 6.0 -> coverage=44, target_stat=8.7727, target_stat_comparison=8.3870, score=0.2858
+
+
+IF Central Perk <= 0.1176470588235294 AND character_lines_RACHEL > 0.1062000929257566 AND character_lines_ROSS > 0.10338481162589404 -> coverage=53, target_stat=8.7340, target_stat_comparison=8.3792, score=0.2855
