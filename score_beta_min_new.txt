@@ -1,0 +1,74 @@
+IF character_lines_PHOEBE <= 0.10295154334942555 AND humor > 0.634012618435226 AND vocab_richness > 0.40793454382631256 -> coverage=11, target_stat=7.9273, target_stat_comparison=8.4849, score=0.3410
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.1291512915129151 AND vocab_richness > 0.3864902769859285 -> coverage=28, target_stat=8.1036, target_stat_comparison=8.5067, score=0.3406
+
+
+IF avg_words_per_line > 9.118298996014051 AND character_lines_PHOEBE <= 0.10295154334942555 AND vocab_richness > 0.40793454382631256 -> coverage=10, target_stat=7.9100, target_stat_comparison=8.4832, score=0.3380
+
+
+IF Central Perk > 0.05366357069143439 AND character_lines_PHOEBE <= 0.10295154334942555 AND vocab_richness > 0.40793454382631256 -> coverage=12, target_stat=7.9583, target_stat_comparison=8.4857, score=0.3333
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.14921023965141605 AND vocab_richness > 0.3864902769859285 -> coverage=36, target_stat=8.1500, target_stat_comparison=8.5145, score=0.3299
+
+
+IF Central Perk > 0.1666666666666666 AND emotion_anger <= 0.07928996565752607 AND exchanges_ROSS_JOEY > 2.0 -> coverage=56, target_stat=8.2054, target_stat_comparison=8.5378, score=0.3275
+
+
+IF Jobs > 0.0 AND emotion_sadness > 0.03666910494504636 AND humor > 0.6980063008416796 -> coverage=10, target_stat=7.9300, target_stat_comparison=8.4823, score=0.3257
+
+
+IF Hospitals <= 0.0 AND exchanges_CHANDLER_JOEY > 18.66666666666663 AND vocab_richness > 0.40793454382631256 -> coverage=10, target_stat=7.9300, target_stat_comparison=8.4823, score=0.3257
+
+
+IF Main apartments > 0.4166666666666667 AND sentiment_pos > 0.1563726869161651 AND vocab_richness > 0.40793454382631256 -> coverage=10, target_stat=7.9300, target_stat_comparison=8.4823, score=0.3257
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.17635569852941174 AND vocab_richness > 0.3864902769859285 -> coverage=45, target_stat=8.1822, target_stat_comparison=8.5241, score=0.3253
+
+
+IF emotion_surprise > 0.1835716614841136 AND sentiment_neg <= 0.0452325188258798 AND vocab_richness > 0.3974609859400576 -> coverage=11, target_stat=7.9545, target_stat_comparison=8.4836, score=0.3235
+
+
+IF Main apartments > 0.4166666666666667 AND sentiment_pos > 0.1615645831587766 AND vocab_richness > 0.3974609859400576 -> coverage=16, target_stat=8.0312, target_stat_comparison=8.4900, score=0.3223
+
+
+IF Jobs > 0.0 AND exchanges_MONICA_CHANDLER <= 22.66666666666663 AND humor > 0.6980063008416796 -> coverage=12, target_stat=7.9750, target_stat_comparison=8.4848, score=0.3222
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_RACHEL > 0.1336882484831096 AND vocab_richness > 0.3974609859400576 -> coverage=24, target_stat=8.1000, target_stat_comparison=8.4995, score=0.3220
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.17635569852941174 AND vocab_richness > 0.3974609859400576 -> coverage=34, target_stat=8.1500, target_stat_comparison=8.5109, score=0.3219
+
+
+IF exchanges_MONICA_CHANDLER <= 13.0 AND sentiment_pos > 0.1563726869161651 AND vocab_richness > 0.40793454382631256 -> coverage=15, target_stat=8.0200, target_stat_comparison=8.4887, score=0.3217
+
+
+IF Main apartments > 0.5333333333333333 AND exchanges_JOEY_PHOEBE > 3.0 AND vocab_richness > 0.3974609859400576 -> coverage=13, target_stat=7.9923, target_stat_comparison=8.4861, score=0.3216
+
+
+IF avg_words_per_line > 10.535767234093926 AND exchanges_MONICA_CHANDLER <= 13.0 AND exchanges_RACHEL_PHOEBE <= 7.0 -> coverage=21, target_stat=8.0810, target_stat_comparison=8.4958, score=0.3202
+
+
+IF Central Perk > 0.1666666666666666 AND exchanges_MONICA_JOEY > 3.0 AND vocab_richness > 0.3974609859400576 -> coverage=21, target_stat=8.0810, target_stat_comparison=8.4958, score=0.3202
+
+
+IF Main apartments > 0.4666666666666667 AND exchanges_JOEY_PHOEBE > 3.0 AND vocab_richness > 0.3974609859400576 -> coverage=21, target_stat=8.0810, target_stat_comparison=8.4958, score=0.3202
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_JOEY <= 0.1291512915129151 AND vocab_richness > 0.3974609859400576 -> coverage=23, target_stat=8.0957, target_stat_comparison=8.4981, score=0.3200
+
+
+IF Central Perk > 0.1666666666666666 AND character_lines_RACHEL > 0.1062000929257566 AND vocab_richness > 0.3974609859400576 -> coverage=29, target_stat=8.1310, target_stat_comparison=8.5048, score=0.3191
+
+
+IF Main apartments > 0.4166666666666667 AND exchanges_MONICA_PHOEBE <= 5.0 AND vocab_richness > 0.3974609859400576 -> coverage=17, target_stat=8.0471, target_stat_comparison=8.4909, score=0.3186
+
+
+IF avg_words_per_line > 10.535767234093926 AND exchanges_CHANDLER_PHOEBE <= 11.0 AND exchanges_MONICA_CHANDLER <= 13.0 -> coverage=31, target_stat=8.1419, target_stat_comparison=8.5068, score=0.3175
+
+
+IF Main apartments > 0.4666666666666667 AND exchanges_MONICA_PHOEBE <= 5.0 AND vocab_richness > 0.3974609859400576 -> coverage=15, target_stat=8.0267, target_stat_comparison=8.4882, score=0.3168
+
