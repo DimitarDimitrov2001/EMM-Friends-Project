@@ -1,7 +1,7 @@
 # EMM Friends Project
 
 ## Overview
-This project studies the Friends TV series by combining subgroup discovery (SD) with natural language processing (NLP). We extract sentiment, emotion, and humor scores from dialogue, engineer episode-level features, and then run SD experiments to uncover interpretable behavioral patterns that relate to episode ratings.
+This project studies the Friends TV series by combining subgroup discovery (SD) with natural language processing (NLP). We extract NLP features from every episode script, and then run SD experiments to uncover interpretable behavioral patterns that relate to episode ratings.
 
 ## Data Sources
 - Friends dialogue scripts, made by Bree Nguyen and Blesson Densil: https://www.kaggle.com/datasets/brzy56/friends-tv-television-scripts-all-dialogue-csv
