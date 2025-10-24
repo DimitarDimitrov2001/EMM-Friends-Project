@@ -1,38 +1,41 @@
-# Subgroup Discovery FRIENDS Project
-This project aims to combine subgroup discovery (SD) with natural language processing (NLP), 
-specifically with sentiment analysis and emotion or humor detection. NLP features are extracted 
-from a TV show script, specifically the Friends TV series.
-The datasets used are from Kaggle.
-- A dataset of the FRIENDS script, made by users Bree Nguyen and Blesson Densil, accessible [here](https://www.kaggle.com/datasets/brzy56/friends-tv-television-scripts-all-dialogue-csv).
-- A dataset of th IMDB rating per FRIENDS episode, made by users Mohammad Reza Ghari and Moulik Dhade, 
-accessible [here](https://www.kaggle.com/datasets/rezaghari/friends-series-dataset/data).
+# EMM Friends Project
 
----
-## File Descriptions
-This section details the use and purpose of each file in the repository.
+## Overview
+This project studies the Friends TV series by combining subgroup discovery (SD) with natural language processing (NLP). We extract sentiment, emotion, and humor scores from dialogue, engineer episode-level features, and then run SD experiments to uncover interpretable behavioral patterns that relate to episode ratings.
 
-### Data files
+## Data Sources
+- Friends dialogue scripts, made by Bree Nguyen and Blesson Densil: https://www.kaggle.com/datasets/brzy56/friends-tv-television-scripts-all-dialogue-csv
+- IMDb ratings dataset, made by Mohammad Reza Ghari and Moulik Dhade: https://www.kaggle.com/datasets/rezaghari/friends-series-dataset/data
 
-- `friends_all_episodes_clean.csv` is the script dataset from Kaggle.
-- `friends_episodes_v3.csv` is the ratings dataset from Kaggle.
-- `df_script.csv` is the preprocessed and cleaned script dataset.
-- `df_rating.csv` is the preprocessed and cleaned rating dataset.
-- In the folder `/dialogue_lines_results_data/`:
-    - `df_dialogue_emotion.csv` contains the detected emotion for each dialogue line.
-    - `df_dialogue_humor.csv` contains the detected whether each dialogue line was humorous or not.
-    - `df_dialogue_emotion.csv` contains the calculated sentiment for each dialogue line.
-- In the folder `/feature_engineering_data/`:
-    - `df_final.csv` contains the final feature engineered data for data analysis and SD.
+## Repository Layout
+| Files | Description |
+| --- | --- |
+| `raw_data/` | Original Kaggle downloads (`friends_all_episodes_clean.csv`, `friends_episodes_v3.csv`). |
+| `preprocessed_data/` | Cleaned, preprocessed versions produced by the parser (`df_script.csv`, `df_rating.csv`). |
+| `dialogue_lines_results_data/` | Line-level NLP outputs from the emotion, sentiment, and humor transformer models (`df_dialogue_emotion.csv`, `df_dialogue_humor.csv`, `df_dialogue_sentiment.csv`). |
+| `feature_engineered_data/df_final.csv` | Aggregated episode-level feature table used for SD analysis. |
+| `result_files/*.txt` | Text dumps of SD quality scores for different measures (Beta Coverage Weighting, Kullback-Leibler, Welch's t-statistics). |
+| `data_parser.ipynb` | Has EDA analysis, cleans the raw scripts and ratings, computes location proportions, and exports the proprocessed data in `preprocessed_data/`. |
+| `feature_engineering.ipynb` | Uses the preprocessed data to create NLP features from the episode scripts and creates `df_final.csv` with those features. |
+| `accuracy_checks.ipynb` | Validates sentiment, emotion, humor predictions and location extraction accuracy. |
+| `Framework_SD.ipynb` | Runs subgroup discovery experiments across several quality measures. |
+| `Results_SD.ipynb` | Explores and summarizes SD outcomes. |
 
-### Code files
+## Workflow
+1. **Data Parsing** – Open `data_parser.ipynb` to preprocess the Kaggle datasets, and export `df_script.csv` and `df_rating.csv` to `preprocessed_data/`.
+2. **Feature Engineering** – Run `feature_engineering.ipynb` to create the NLP features per episode, and export the final dataset to `feature_engineered_data/df_final.csv` and also export the transformer models' outputs per dialogue line to `dialogue_lines_results_data/`.
+3. **Quality Validation** – Use `accuracy_checks.ipynb` to inspect the performance of the NLP models and verify location extraction consistency.
+4. **Subgroup Discovery** – Execute `Framework_SD.ipynb` to search for subgroups, using `df_final.csv`, with respect to ratings and the extracted NLP features. The scores are written to `result_files/`.
+5. **Result Analysis** – Review `Results_SD.ipynb` to see and interpret the discovered subgroups and compare alternative quality measures.
 
-- `data_parser.ipynb` preprocesses `friends_all_episodes_clean.csv` and `friends_episodes_v3.csv` and calculates 
-location proportions based on the script. It produces two CSV datasets, `df_script.csv` and `df_rating.csv` 
-(location proportions are stored in the cleaned ratings dataset).
-- `feature_engineering.ipynb` combines and parses `df_script.csv` and `df_rating.csv` to produce a variety of NLP and
-script features. It produces the data files in the folders `/dialogue_lines_results_data/` 
-and `/feature_engineering_data/`
-- `Framework.ipynb` runs the SD algorithm and various quality measure experiments.
-- `accuracy_checks.ipynb` evaluates the performance of the sentiment, emotion, and humor (NLP) models. Also checks the
-error of the location extraction process.
+## Reproducing the Pipeline
+1. **Set up Python** – Create virtual environment (Python 3.9+ recommended) and install all required libraries by running in the terminal:
+    ```
+    pip install -r requirements.txt
+    ```
+2. **Place Raw Data** – Ensure the two Kaggle CSV files are available under `raw_data/` with the expected filenames.
+3. **Execute Notebooks** – Run the notebooks in the order outlined above. Each notebook writes its outputs into the corresponding data folder.
+4. **Inspect Outputs** – Final episode-level dataset is seen in `feature_engineered_data/`, while SD score summaries and visual analyses can be found in `result_files/` and `Results_SD.ipynb`.
 
+## Team Note
+- The intermediate datasets are also uploaded to the repository to make the experiments reproducible without rerunning every notebook.
